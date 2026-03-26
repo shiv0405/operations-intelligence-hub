@@ -34,6 +34,4 @@
   <rect x="440" y="552" width="542.5" height="28" rx="14" fill="#f59e0b"/>
   <text x="1078" y="574" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.5</text>
 
-  <rect x="74" y="646" width="1132" height="72" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="1.5"/>
-  <text x="100" y="692" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Lower scores indicate greater pressure across throughput, service, quality, and backlog conditions.</text>
 </svg>
