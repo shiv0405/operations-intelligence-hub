@@ -1,0 +1,8 @@
+site_code,site_name,region,performance_band,composite_score,backlog_pressure,critical_incidents,risk_signal,recommended_action
+BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Leading,87.5,0.018373588079788512,25,Operational incident concentration,Assign cross-functional incident review
+CHI-02,Chicago Distribution Campus,North America,Leading,88.9,0.018070185797512205,13,Operational incident concentration,Assign cross-functional incident review
+MEX-01,Monterrey Export Gateway,Latin America,Stable,80.9,0.02356770105302395,39,Operational incident concentration,Assign cross-functional incident review
+DXB-01,Dubai Regional Gateway,Middle East,Stable,82.5,0.023363860243189167,26,Operational incident concentration,Assign cross-functional incident review
+SYD-01,Sydney Service Campus,Asia Pacific,Stable,82.9,0.025328544381334223,16,Operational incident concentration,Assign cross-functional incident review
+MAD-02,Madrid Service Center,Europe,Stable,85.4,0.022227970465364812,12,Operational incident concentration,Assign cross-functional incident review
+JHB-01,Johannesburg Service Hub,Africa,Watchlist,76.2,0.030720980533525594,46,Operational incident concentration,Assign cross-functional incident review

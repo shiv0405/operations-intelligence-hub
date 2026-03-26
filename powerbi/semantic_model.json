@@ -1,0 +1,172 @@
+{
+  "project": "Operations Intelligence Hub",
+  "summary": {
+    "sites_in_scope": 12,
+    "network_score": 87.1,
+    "leading_sites": 7,
+    "critical_sites": 0,
+    "throughput_attainment_pct": 95.3,
+    "availability_pct": 92.5,
+    "first_pass_yield_pct": 98.2,
+    "on_time_service_pct": 93.2,
+    "perfect_order_pct": 81.9,
+    "revenue_at_risk_usd": 36442513.93,
+    "expedite_share_pct": 11.3,
+    "top_priority_site": "Bengaluru Fulfillment Center"
+  },
+  "tables": [
+    {
+      "name": "SiteDimension",
+      "grain": "One row per site",
+      "path": "data/raw/site_dimension.csv",
+      "columns": [
+        "site_code",
+        "site_name",
+        "region",
+        "country",
+        "automation_tier",
+        "network_role",
+        "daily_capacity"
+      ]
+    },
+    {
+      "name": "OperationsPerformanceDaily",
+      "grain": "One row per site, shift, workstream, and day",
+      "path": "data/raw/operations_performance_daily.csv",
+      "columns": [
+        "date",
+        "site_code",
+        "shift",
+        "workstream",
+        "planned_units",
+        "actual_units",
+        "downtime_minutes",
+        "scrap_units",
+        "backlog_orders",
+        "labor_hours"
+      ]
+    },
+    {
+      "name": "OrderServiceLevels",
+      "grain": "One row per order",
+      "path": "data/raw/order_service_levels.csv",
+      "columns": [
+        "order_id",
+        "order_date",
+        "site_code",
+        "customer_tier",
+        "channel",
+        "promised_cycle_hours",
+        "actual_cycle_hours",
+        "shipped_on_time",
+        "perfect_order_flag",
+        "root_cause",
+        "order_value_usd"
+      ]
+    },
+    {
+      "name": "QualityIncidents",
+      "grain": "One row per operational incident",
+      "path": "data/raw/quality_incidents.csv",
+      "columns": [
+        "incident_id",
+        "opened_on",
+        "site_code",
+        "category",
+        "severity",
+        "resolution_hours",
+        "impacted_units",
+        "impacted_orders"
+      ]
+    },
+    {
+      "name": "SitePerformanceScorecard",
+      "grain": "One row per site",
+      "path": "data/processed/site_performance_scorecard.csv",
+      "columns": [
+        "rank",
+        "site_code",
+        "site_name",
+        "region",
+        "country",
+        "automation_tier",
+        "network_role",
+        "throughput_attainment",
+        "availability_rate",
+        "first_pass_yield",
+        "on_time_rate",
+        "perfect_order_rate",
+        "oee_proxy",
+        "backlog_pressure",
+        "incident_rate_per_1000_orders",
+        "productivity_units_per_hour",
+        "energy_cost_usd",
+        "order_value_usd",
+        "critical_incidents",
+        "performance_band",
+        "executive_priority",
+        "composite_score"
+      ]
+    },
+    {
+      "name": "NetworkAlerts",
+      "grain": "One row per elevated site alert",
+      "path": "data/processed/network_alerts.csv",
+      "columns": [
+        "site_code",
+        "site_name",
+        "region",
+        "performance_band",
+        "composite_score",
+        "backlog_pressure",
+        "critical_incidents",
+        "risk_signal",
+        "recommended_action"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "SiteDimension.site_code",
+      "to": "OperationsPerformanceDaily.site_code",
+      "cardinality": "1:*"
+    },
+    {
+      "from": "SiteDimension.site_code",
+      "to": "OrderServiceLevels.site_code",
+      "cardinality": "1:*"
+    },
+    {
+      "from": "SiteDimension.site_code",
+      "to": "QualityIncidents.site_code",
+      "cardinality": "1:*"
+    },
+    {
+      "from": "SiteDimension.site_code",
+      "to": "SitePerformanceScorecard.site_code",
+      "cardinality": "1:1"
+    },
+    {
+      "from": "SiteDimension.site_code",
+      "to": "NetworkAlerts.site_code",
+      "cardinality": "1:*"
+    }
+  ],
+  "recommended_report_pages": [
+    "Network Command Center",
+    "Site Performance Deep Dive",
+    "Service Risk and Delay Drivers",
+    "Quality and Incident Response",
+    "Capacity, Labor, and Recovery Planning"
+  ],
+  "refresh_strategy": {
+    "landing_zone": "Daily flat-file drop or warehouse extracts",
+    "refresh_frequency": "Hourly for operational review, daily for executive scorecards",
+    "data_quality_checks": [
+      "Duplicate order ID detection",
+      "Null site-key validation",
+      "Negative labor or volume value checks",
+      "Outlier monitoring for downtime and backlog spikes"
+    ]
+  }
+}

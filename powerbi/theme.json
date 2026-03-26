@@ -1,0 +1,31 @@
+{
+  "name": "Operations Intelligence Hub",
+  "dataColors": [
+    "#035e7b",
+    "#f0ad4e",
+    "#7c3aed",
+    "#228b22",
+    "#d1495b",
+    "#2f4858"
+  ],
+  "background": "#f4f1ea",
+  "foreground": "#17202a",
+  "tableAccent": "#035e7b",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#17202a"
+              }
+            },
+            "fontSize": 13,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    }
+  }
+}

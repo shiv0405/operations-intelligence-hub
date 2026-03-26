@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Operations Intelligence Hub - Dashboard Preview</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", sans-serif;
+      background: #132029;
+      color: #f6f0e7;
+    }
+    .hero {
+      padding: 32px 40px 18px;
+      background:
+        radial-gradient(circle at top right, rgba(238, 186, 47, 0.18), transparent 30%),
+        linear-gradient(135deg, #153543, #09131a 70%);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 36px;
+    }
+    .sub {
+      max-width: 780px;
+      line-height: 1.6;
+      color: #d8d6d1;
+    }
+    .board {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 16px;
+      padding: 18px 40px 40px;
+    }
+    .panel {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+      padding: 20px;
+      backdrop-filter: blur(10px);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+    .metric {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 16px;
+      padding: 16px;
+    }
+    .metric span {
+      display: block;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #c9b690;
+      margin-bottom: 8px;
+    }
+    .metric strong {
+      font-size: 28px;
+    }
+    ul {
+      line-height: 1.8;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <h1>Operations Intelligence Hub</h1>
+    <p class="sub">Static preview for the Power BI command center. The live report should preserve this narrative: score the network, isolate risk concentration, and turn operational telemetry into leadership decisions.</p>
+  </section>
+  <section class="board">
+    <div class="panel">
+      <h2>Executive Signals</h2>
+      <div class="grid">
+        <div class="metric"><span>Network Score</span><strong>87.1</strong></div>
+        <div class="metric"><span>On-Time Service</span><strong>93.2%</strong></div>
+        <div class="metric"><span>Revenue At Risk</span><strong>$36,442,514</strong></div>
+        <div class="metric"><span>Perfect Order</span><strong>81.9%</strong></div>
+        <div class="metric"><span>Critical Sites</span><strong>0</strong></div>
+        <div class="metric"><span>Expedite Share</span><strong>11.3%</strong></div>
+      </div>
+    </div>
+    <div class="panel">
+      <h2>Priority Actions</h2>
+      <ul><li><strong>Bengaluru Fulfillment Center</strong> - Operational incident concentration (Assign cross-functional incident review)</li><li><strong>Chicago Distribution Campus</strong> - Operational incident concentration (Assign cross-functional incident review)</li><li><strong>Monterrey Export Gateway</strong> - Operational incident concentration (Assign cross-functional incident review)</li><li><strong>Dubai Regional Gateway</strong> - Operational incident concentration (Assign cross-functional incident review)</li><li><strong>Sydney Service Campus</strong> - Operational incident concentration (Assign cross-functional incident review)</li></ul>
+    </div>
+  </section>
+</body>
+</html>

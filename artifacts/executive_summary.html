@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Operations Intelligence Hub - Executive Summary</title>
+  <style>
+    :root {
+      --bg: #f4f1ea;
+      --ink: #17202a;
+      --card: #fffdf8;
+      --accent: #035e7b;
+      --accent-soft: #d9eef4;
+      --border: #d4cbc0;
+      --muted: #576574;
+    }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Trebuchet MS", sans-serif;
+      background: linear-gradient(180deg, #f7f4ee 0%, #efe8dc 100%);
+      color: var(--ink);
+    }
+    .wrap {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 36px 28px 56px;
+    }
+    h1 {
+      font-size: 38px;
+      margin-bottom: 10px;
+    }
+    p.subtitle {
+      max-width: 840px;
+      line-height: 1.6;
+      color: var(--muted);
+      margin-bottom: 24px;
+    }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      margin: 24px 0 30px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 18px 20px;
+      box-shadow: 0 18px 30px rgba(23, 32, 42, 0.06);
+    }
+    .card .label {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .card strong {
+      font-size: 30px;
+    }
+    .panel-grid {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr;
+      gap: 18px;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 22px 24px;
+      margin-top: 18px;
+      box-shadow: 0 18px 30px rgba(23, 32, 42, 0.06);
+    }
+    .focus {
+      background: linear-gradient(135deg, var(--accent-soft), #f8fffd);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 14px;
+    }
+    th, td {
+      padding: 10px 8px;
+      border-bottom: 1px solid #ebe3d8;
+      text-align: left;
+    }
+    th {
+      font-size: 12px;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+    .pill {
+      display: inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      background: rgba(3, 94, 123, 0.1);
+      color: var(--accent);
+      font-size: 12px;
+      margin-right: 8px;
+      margin-bottom: 8px;
+    }
+    ul {
+      line-height: 1.7;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Operations Intelligence Hub</h1>
+    <p class="subtitle">Executive-ready view of network throughput, service health, operational stability, and recovery priorities across a multi-region fulfillment portfolio. This summary is generated from reproducible synthetic telemetry and aligned to the Power BI build assets included in the repository.</p>
+    <div class="cards">
+      
+            <div class="card">
+              <span class="label">Network Score</span>
+              <strong>87.1</strong>
+            </div>
+            
+            <div class="card">
+              <span class="label">On-Time Service</span>
+              <strong>93.2%</strong>
+            </div>
+            
+            <div class="card">
+              <span class="label">Perfect Order</span>
+              <strong>81.9%</strong>
+            </div>
+            
+            <div class="card">
+              <span class="label">Revenue At Risk</span>
+              <strong>$36,442,514</strong>
+            </div>
+            
+            <div class="card">
+              <span class="label">Critical Sites</span>
+              <strong>0</strong>
+            </div>
+            
+            <div class="card">
+              <span class="label">Expedite Share</span>
+              <strong>11.3%</strong>
+            </div>
+            
+    </div>
+    <div class="panel-grid">
+      <section class="panel focus">
+        <h2>Leadership Narrative</h2>
+        <span class="pill">Top Priority: Bengaluru Fulfillment Center</span>
+        <span class="pill">Sites in Scope: 12</span>
+        <span class="pill">Leading Sites: 7</span>
+        <ul>
+          <li>Throughput attainment is 95.3% with availability at 92.5%.</li>
+          <li>Delayed-order exposure totals $36,442,514, concentrated in sites with elevated backlog pressure.</li>
+          <li>The current portfolio demands targeted recovery actions rather than broad network-wide intervention.</li>
+        </ul>
+      </section>
+      <section class="panel">
+        <h2>Immediate Actions</h2>
+        <ul>
+          <li>Stabilize the lowest-scoring sites with a 30-day service recovery sprint focused on backlog, staffing, and carrier allocation.</li>
+          <li>Use the Power BI command center pages to separate structural service risk from temporary seasonal pressure.</li>
+          <li>Prioritize root-cause remediation where delayed-order value and incident concentration overlap.</li>
+        </ul>
+      </section>
+    </div>
+    <section class="panel">
+      <h2>Top Performing Sites</h2>
+      <table>
+        <thead><tr><th>site name</th><th>region</th><th>composite score</th><th>on time rate</th><th>first pass yield</th></tr></thead>
+        <tbody><tr><td>Dallas Omni-Channel Hub</td><td>North America</td><td>95.1</td><td>94.8%</td><td>98.7%</td></tr><tr><td>Frankfurt Regional Hub</td><td>Europe</td><td>93.3</td><td>94.3%</td><td>98.5%</td></tr><tr><td>Atlanta Fulfillment Center</td><td>North America</td><td>93.2</td><td>94.2%</td><td>98.6%</td></tr><tr><td>Milton Keynes Network Center</td><td>Europe</td><td>90.9</td><td>93.9%</td><td>98.2%</td></tr><tr><td>Chicago Distribution Campus</td><td>North America</td><td>88.9</td><td>93.5%</td><td>98.3%</td></tr></tbody>
+      </table>
+    </section>
+    <section class="panel">
+      <h2>Attention Sites</h2>
+      <table>
+        <thead><tr><th>site name</th><th>region</th><th>composite score</th><th>backlog pressure</th><th>executive priority</th></tr></thead>
+        <tbody><tr><td>Johannesburg Service Hub</td><td>Africa</td><td>76.2</td><td>3.1%</td><td>Immediate leadership intervention</td></tr><tr><td>Monterrey Export Gateway</td><td>Latin America</td><td>80.9</td><td>2.4%</td><td>Immediate leadership intervention</td></tr><tr><td>Dubai Regional Gateway</td><td>Middle East</td><td>82.5</td><td>2.3%</td><td>Immediate leadership intervention</td></tr><tr><td>Sydney Service Campus</td><td>Asia Pacific</td><td>82.9</td><td>2.5%</td><td>Immediate leadership intervention</td></tr><tr><td>Madrid Service Center</td><td>Europe</td><td>85.4</td><td>2.2%</td><td>Stabilize service flow</td></tr></tbody>
+      </table>
+    </section>
+    <section class="panel">
+      <h2>Root-Cause Concentration</h2>
+      <table>
+        <thead><tr><th>driver</th><th>delayed orders</th><th>incident count</th><th>value at risk usd</th></tr></thead>
+        <tbody><tr><td>Weather disruption</td><td>1836.0</td><td>0.0</td><td>$4,735,614</td></tr><tr><td>Demand spike</td><td>1834.0</td><td>0.0</td><td>$4,683,935</td></tr><tr><td>Documentation hold</td><td>1808.0</td><td>0.0</td><td>$4,615,300</td></tr><tr><td>Supplier delay</td><td>1770.0</td><td>0.0</td><td>$4,617,114</td></tr><tr><td>Slotting constraint</td><td>1754.0</td><td>0.0</td><td>$4,599,791</td></tr><tr><td>Labor coverage gap</td><td>1741.0</td><td>0.0</td><td>$4,416,075</td></tr></tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

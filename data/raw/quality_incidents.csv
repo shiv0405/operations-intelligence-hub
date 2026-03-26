@@ -1,0 +1,952 @@
+incident_id,opened_on,site_code,site_name,region,workstream,category,severity,resolution_hours,impacted_units,impacted_orders,owner_team
+INC-0000001,2025-01-01,CHI-02,Chicago Distribution Campus,North America,Returns,Equipment reliability,low,26.7,15,5,Site Leadership
+INC-0000002,2025-01-01,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Supplier quality,medium,23.7,7,9,Site Leadership
+INC-0000003,2025-01-02,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Equipment reliability,low,27.5,28,7,Site Leadership
+INC-0000004,2025-01-02,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Inventory variance,critical,33.7,29,13,Operations Excellence
+INC-0000005,2025-01-03,JHB-01,Johannesburg Service Hub,Africa,Inbound,Process discipline,critical,35.2,13,7,Operations Excellence
+INC-0000006,2025-01-04,CHI-02,Chicago Distribution Campus,North America,Returns,Supplier quality,low,5.9,4,10,Site Leadership
+INC-0000007,2025-01-04,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,high,25.9,8,12,Operations Excellence
+INC-0000008,2025-01-04,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Process discipline,low,11.2,14,8,Site Leadership
+INC-0000009,2025-01-04,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,low,19.1,10,4,Site Leadership
+INC-0000010,2025-01-04,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Equipment reliability,low,23.6,23,4,Site Leadership
+INC-0000011,2025-01-04,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Supplier quality,high,12.2,10,5,Operations Excellence
+INC-0000012,2025-01-04,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,medium,27.1,8,10,Site Leadership
+INC-0000013,2025-01-05,CHI-02,Chicago Distribution Campus,North America,Kitting,Equipment reliability,medium,5.8,4,5,Site Leadership
+INC-0000014,2025-01-05,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Equipment reliability,medium,8.3,4,7,Site Leadership
+INC-0000015,2025-01-05,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Inventory variance,low,4.6,7,1,Site Leadership
+INC-0000016,2025-01-06,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Process discipline,low,9.1,21,2,Site Leadership
+INC-0000017,2025-01-06,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Supplier quality,medium,6.3,18,7,Site Leadership
+INC-0000018,2025-01-06,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,low,19.0,7,2,Site Leadership
+INC-0000019,2025-01-06,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Equipment reliability,low,14.5,6,6,Site Leadership
+INC-0000020,2025-01-06,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,medium,24.4,6,5,Site Leadership
+INC-0000021,2025-01-07,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Process discipline,low,11.7,23,4,Site Leadership
+INC-0000022,2025-01-07,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,medium,15.6,14,10,Site Leadership
+INC-0000023,2025-01-08,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Process discipline,high,26.3,11,7,Operations Excellence
+INC-0000024,2025-01-09,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,critical,21.7,9,14,Operations Excellence
+INC-0000025,2025-01-09,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Carrier exception,low,12.1,7,3,Site Leadership
+INC-0000026,2025-01-10,CHI-02,Chicago Distribution Campus,North America,Inbound,Carrier exception,low,4.4,18,7,Site Leadership
+INC-0000027,2025-01-10,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,high,12.8,7,5,Operations Excellence
+INC-0000028,2025-01-11,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,low,11.1,9,4,Site Leadership
+INC-0000029,2025-01-11,JHB-01,Johannesburg Service Hub,Africa,Kitting,Supplier quality,medium,15.4,6,4,Site Leadership
+INC-0000030,2025-01-12,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Carrier exception,low,20.5,26,10,Site Leadership
+INC-0000031,2025-01-12,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,low,27.3,12,3,Site Leadership
+INC-0000032,2025-01-12,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,high,25.4,8,11,Operations Excellence
+INC-0000033,2025-01-13,ATL-01,Atlanta Fulfillment Center,North America,Returns,Equipment reliability,medium,8.4,16,10,Site Leadership
+INC-0000034,2025-01-13,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,low,23.7,10,3,Site Leadership
+INC-0000035,2025-01-13,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Inventory variance,low,22.9,8,4,Site Leadership
+INC-0000036,2025-01-14,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,low,4.1,27,5,Site Leadership
+INC-0000037,2025-01-14,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Inventory variance,low,17.8,6,2,Site Leadership
+INC-0000038,2025-01-15,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Process discipline,low,24.9,28,6,Site Leadership
+INC-0000039,2025-01-16,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Inventory variance,low,18.4,22,4,Site Leadership
+INC-0000040,2025-01-16,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,medium,8.7,10,5,Site Leadership
+INC-0000041,2025-01-16,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Equipment reliability,low,23.5,11,3,Site Leadership
+INC-0000042,2025-01-16,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,11.1,41,7,Site Leadership
+INC-0000043,2025-01-17,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Equipment reliability,low,25.2,32,6,Site Leadership
+INC-0000044,2025-01-18,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,low,7.1,4,4,Site Leadership
+INC-0000045,2025-01-18,MAD-02,Madrid Service Center,Europe,Fulfillment,Carrier exception,low,25.6,9,6,Site Leadership
+INC-0000046,2025-01-19,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Carrier exception,high,16.6,6,8,Operations Excellence
+INC-0000047,2025-01-19,JHB-01,Johannesburg Service Hub,Africa,Inbound,Staffing instability,critical,15.7,4,11,Operations Excellence
+INC-0000048,2025-01-19,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,medium,21.7,7,3,Site Leadership
+INC-0000049,2025-01-20,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,high,24.6,11,7,Operations Excellence
+INC-0000050,2025-01-20,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,critical,31.1,7,9,Operations Excellence
+INC-0000051,2025-01-20,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Supplier quality,medium,16.4,9,5,Site Leadership
+INC-0000052,2025-01-20,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Staffing instability,low,21.6,3,7,Site Leadership
+INC-0000053,2025-01-21,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,low,15.6,14,10,Site Leadership
+INC-0000054,2025-01-23,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Supplier quality,low,19.1,18,9,Site Leadership
+INC-0000055,2025-01-23,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Supplier quality,low,5.4,18,5,Site Leadership
+INC-0000056,2025-01-23,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,low,9.4,39,2,Site Leadership
+INC-0000057,2025-01-23,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Staffing instability,low,24.2,9,4,Site Leadership
+INC-0000058,2025-01-23,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,critical,35.4,6,14,Operations Excellence
+INC-0000059,2025-01-23,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Carrier exception,medium,27.8,13,4,Site Leadership
+INC-0000060,2025-01-24,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,critical,23.5,13,7,Operations Excellence
+INC-0000061,2025-01-24,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,high,12.8,23,10,Operations Excellence
+INC-0000062,2025-01-25,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Staffing instability,low,26.8,16,4,Site Leadership
+INC-0000063,2025-01-26,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Process discipline,low,9.8,13,2,Site Leadership
+INC-0000064,2025-01-26,FRA-01,Frankfurt Regional Hub,Europe,Returns,Supplier quality,high,20.0,10,9,Operations Excellence
+INC-0000065,2025-01-26,MAD-02,Madrid Service Center,Europe,Inbound,Inventory variance,medium,20.3,7,6,Site Leadership
+INC-0000066,2025-01-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Carrier exception,high,12.3,15,9,Operations Excellence
+INC-0000067,2025-01-27,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Equipment reliability,low,17.3,17,2,Site Leadership
+INC-0000068,2025-01-27,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Equipment reliability,medium,7.3,20,12,Site Leadership
+INC-0000069,2025-01-29,JHB-01,Johannesburg Service Hub,Africa,Returns,Equipment reliability,high,5.4,8,4,Operations Excellence
+INC-0000070,2025-01-29,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Inventory variance,high,6.5,46,7,Operations Excellence
+INC-0000071,2025-01-30,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Inventory variance,low,14.8,10,5,Site Leadership
+INC-0000072,2025-01-30,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,medium,5.7,14,7,Site Leadership
+INC-0000073,2025-01-30,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,medium,13.3,8,9,Site Leadership
+INC-0000074,2025-01-30,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,25.5,26,3,Site Leadership
+INC-0000075,2025-01-30,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Supplier quality,low,23.9,18,4,Site Leadership
+INC-0000076,2025-02-01,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Inventory variance,critical,8.4,13,16,Operations Excellence
+INC-0000077,2025-02-01,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,critical,24.3,11,9,Operations Excellence
+INC-0000078,2025-02-01,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,high,9.6,11,7,Operations Excellence
+INC-0000079,2025-02-02,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Carrier exception,low,25.0,11,4,Site Leadership
+INC-0000080,2025-02-03,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Supplier quality,low,10.6,8,4,Site Leadership
+INC-0000081,2025-02-04,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Equipment reliability,low,14.0,26,5,Site Leadership
+INC-0000082,2025-02-04,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Equipment reliability,low,14.5,16,3,Site Leadership
+INC-0000083,2025-02-04,FRA-01,Frankfurt Regional Hub,Europe,Returns,Staffing instability,critical,11.4,15,10,Operations Excellence
+INC-0000084,2025-02-05,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Inventory variance,low,16.4,15,4,Site Leadership
+INC-0000085,2025-02-05,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Inventory variance,low,9.2,15,3,Site Leadership
+INC-0000086,2025-02-05,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Equipment reliability,low,13.7,13,5,Site Leadership
+INC-0000087,2025-02-06,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,low,25.7,37,3,Site Leadership
+INC-0000088,2025-02-07,ATL-01,Atlanta Fulfillment Center,North America,Returns,Process discipline,low,14.1,7,3,Site Leadership
+INC-0000089,2025-02-07,FRA-01,Frankfurt Regional Hub,Europe,Returns,Carrier exception,low,20.8,14,5,Site Leadership
+INC-0000090,2025-02-07,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Equipment reliability,critical,23.8,8,7,Operations Excellence
+INC-0000091,2025-02-07,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Equipment reliability,critical,7.7,18,10,Operations Excellence
+INC-0000092,2025-02-07,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Inventory variance,low,22.9,26,6,Site Leadership
+INC-0000093,2025-02-08,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,low,23.5,12,2,Site Leadership
+INC-0000094,2025-02-08,JHB-01,Johannesburg Service Hub,Africa,Kitting,Equipment reliability,medium,12.5,3,8,Site Leadership
+INC-0000095,2025-02-08,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Staffing instability,low,5.8,13,4,Site Leadership
+INC-0000096,2025-02-09,MAD-02,Madrid Service Center,Europe,Fulfillment,Process discipline,low,8.0,29,5,Site Leadership
+INC-0000097,2025-02-10,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Inventory variance,low,25.1,30,8,Site Leadership
+INC-0000098,2025-02-10,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Equipment reliability,low,23.6,14,7,Site Leadership
+INC-0000099,2025-02-11,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,low,11.2,46,7,Site Leadership
+INC-0000100,2025-02-12,ATL-01,Atlanta Fulfillment Center,North America,Returns,Staffing instability,low,21.7,10,1,Site Leadership
+INC-0000101,2025-02-12,CHI-02,Chicago Distribution Campus,North America,Returns,Staffing instability,low,24.9,6,3,Site Leadership
+INC-0000102,2025-02-12,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Carrier exception,medium,21.7,9,10,Site Leadership
+INC-0000103,2025-02-13,CHI-02,Chicago Distribution Campus,North America,Returns,Carrier exception,medium,23.2,9,8,Site Leadership
+INC-0000104,2025-02-13,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Staffing instability,medium,8.2,32,7,Site Leadership
+INC-0000105,2025-02-13,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,critical,30.5,12,11,Operations Excellence
+INC-0000106,2025-02-13,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Process discipline,medium,20.0,35,6,Site Leadership
+INC-0000107,2025-02-13,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Staffing instability,low,13.0,15,3,Site Leadership
+INC-0000108,2025-02-13,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Carrier exception,low,22.5,11,6,Site Leadership
+INC-0000109,2025-02-14,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Supplier quality,medium,22.5,18,12,Site Leadership
+INC-0000110,2025-02-14,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,medium,6.7,33,5,Site Leadership
+INC-0000111,2025-02-14,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Supplier quality,critical,32.7,19,6,Operations Excellence
+INC-0000112,2025-02-15,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Process discipline,medium,21.9,27,6,Site Leadership
+INC-0000113,2025-02-15,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,medium,6.9,15,6,Site Leadership
+INC-0000114,2025-02-17,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Inventory variance,critical,27.3,20,8,Operations Excellence
+INC-0000115,2025-02-17,FRA-01,Frankfurt Regional Hub,Europe,Returns,Supplier quality,low,14.4,18,6,Site Leadership
+INC-0000116,2025-02-17,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,low,22.9,13,4,Site Leadership
+INC-0000117,2025-02-17,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Supplier quality,low,5.6,43,3,Site Leadership
+INC-0000118,2025-02-17,JHB-01,Johannesburg Service Hub,Africa,Kitting,Inventory variance,low,17.4,7,4,Site Leadership
+INC-0000119,2025-02-18,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Process discipline,low,12.4,25,2,Site Leadership
+INC-0000120,2025-02-18,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Equipment reliability,low,9.7,15,4,Site Leadership
+INC-0000121,2025-02-18,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,high,21.9,7,13,Operations Excellence
+INC-0000122,2025-02-19,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,medium,20.8,13,10,Site Leadership
+INC-0000123,2025-02-20,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Process discipline,low,8.4,20,7,Site Leadership
+INC-0000124,2025-02-20,CHI-02,Chicago Distribution Campus,North America,Kitting,Inventory variance,low,16.0,11,4,Site Leadership
+INC-0000125,2025-02-20,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,low,24.0,23,6,Site Leadership
+INC-0000126,2025-02-20,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Carrier exception,low,25.1,9,4,Site Leadership
+INC-0000127,2025-02-20,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Supplier quality,low,11.2,10,8,Site Leadership
+INC-0000128,2025-02-20,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,low,22.1,5,6,Site Leadership
+INC-0000129,2025-02-21,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Process discipline,low,25.0,36,8,Site Leadership
+INC-0000130,2025-02-21,JHB-01,Johannesburg Service Hub,Africa,Inbound,Supplier quality,low,21.8,10,6,Site Leadership
+INC-0000131,2025-02-22,JHB-01,Johannesburg Service Hub,Africa,Inbound,Process discipline,critical,9.5,8,8,Operations Excellence
+INC-0000132,2025-02-22,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Staffing instability,low,6.4,10,4,Site Leadership
+INC-0000133,2025-02-22,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Inventory variance,medium,15.7,11,7,Site Leadership
+INC-0000134,2025-02-23,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Staffing instability,low,6.4,10,6,Site Leadership
+INC-0000135,2025-02-23,MAD-02,Madrid Service Center,Europe,Fulfillment,Process discipline,critical,33.9,18,9,Operations Excellence
+INC-0000136,2025-02-23,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Inventory variance,low,12.2,3,8,Site Leadership
+INC-0000137,2025-02-24,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Process discipline,low,26.9,12,5,Site Leadership
+INC-0000138,2025-02-24,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,low,9.1,9,7,Site Leadership
+INC-0000139,2025-02-24,MAD-02,Madrid Service Center,Europe,Kitting,Process discipline,low,8.7,14,3,Site Leadership
+INC-0000140,2025-02-24,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Inventory variance,low,23.6,6,6,Site Leadership
+INC-0000141,2025-02-24,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,medium,22.7,11,4,Site Leadership
+INC-0000142,2025-02-25,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,low,21.0,19,4,Site Leadership
+INC-0000143,2025-02-25,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,low,24.0,8,7,Site Leadership
+INC-0000144,2025-02-26,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,low,12.8,20,3,Site Leadership
+INC-0000145,2025-02-26,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Process discipline,low,25.5,9,4,Site Leadership
+INC-0000146,2025-02-26,LHR-03,Milton Keynes Network Center,Europe,Kitting,Staffing instability,critical,16.1,11,14,Operations Excellence
+INC-0000147,2025-02-26,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Equipment reliability,low,7.0,24,4,Site Leadership
+INC-0000148,2025-02-26,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Inventory variance,low,20.4,12,3,Site Leadership
+INC-0000149,2025-02-27,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,low,4.1,16,5,Site Leadership
+INC-0000150,2025-02-28,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Equipment reliability,low,6.8,12,6,Site Leadership
+INC-0000151,2025-02-28,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,medium,22.4,19,6,Site Leadership
+INC-0000152,2025-02-28,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Process discipline,low,24.7,30,7,Site Leadership
+INC-0000153,2025-02-28,DXB-01,Dubai Regional Gateway,Middle East,Returns,Process discipline,critical,10.3,4,7,Operations Excellence
+INC-0000154,2025-03-01,CHI-02,Chicago Distribution Campus,North America,Returns,Staffing instability,low,15.8,12,1,Site Leadership
+INC-0000155,2025-03-01,MAD-02,Madrid Service Center,Europe,Returns,Inventory variance,medium,21.8,7,7,Site Leadership
+INC-0000156,2025-03-01,JHB-01,Johannesburg Service Hub,Africa,Kitting,Process discipline,critical,26.3,7,9,Operations Excellence
+INC-0000157,2025-03-01,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Supplier quality,low,24.6,13,2,Site Leadership
+INC-0000158,2025-03-02,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Staffing instability,low,21.1,13,7,Site Leadership
+INC-0000159,2025-03-02,LHR-03,Milton Keynes Network Center,Europe,Returns,Carrier exception,low,7.7,6,2,Site Leadership
+INC-0000160,2025-03-02,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Process discipline,low,9.7,12,3,Site Leadership
+INC-0000161,2025-03-03,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Process discipline,low,16.0,16,2,Site Leadership
+INC-0000162,2025-03-03,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,critical,34.5,9,8,Operations Excellence
+INC-0000163,2025-03-04,LHR-03,Milton Keynes Network Center,Europe,Returns,Process discipline,critical,25.2,15,7,Operations Excellence
+INC-0000164,2025-03-04,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Carrier exception,medium,13.6,6,8,Site Leadership
+INC-0000165,2025-03-05,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,medium,9.2,16,4,Site Leadership
+INC-0000166,2025-03-05,MAD-02,Madrid Service Center,Europe,Inbound,Inventory variance,low,23.6,25,6,Site Leadership
+INC-0000167,2025-03-05,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Inventory variance,low,24.8,27,6,Site Leadership
+INC-0000168,2025-03-05,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,low,6.8,17,8,Site Leadership
+INC-0000169,2025-03-05,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,low,11.1,9,4,Site Leadership
+INC-0000170,2025-03-05,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Process discipline,high,26.2,7,5,Operations Excellence
+INC-0000171,2025-03-06,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Supplier quality,low,11.3,22,7,Site Leadership
+INC-0000172,2025-03-06,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,critical,16.3,29,6,Operations Excellence
+INC-0000173,2025-03-06,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,critical,29.6,20,14,Operations Excellence
+INC-0000174,2025-03-06,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,critical,27.8,12,11,Operations Excellence
+INC-0000175,2025-03-06,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Staffing instability,low,25.4,8,7,Site Leadership
+INC-0000176,2025-03-07,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Inventory variance,low,11.1,36,3,Site Leadership
+INC-0000177,2025-03-07,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Inventory variance,high,15.5,8,8,Operations Excellence
+INC-0000178,2025-03-07,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,medium,18.7,14,6,Site Leadership
+INC-0000179,2025-03-07,JHB-01,Johannesburg Service Hub,Africa,Kitting,Inventory variance,critical,14.6,12,12,Operations Excellence
+INC-0000180,2025-03-07,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Equipment reliability,low,18.2,10,6,Site Leadership
+INC-0000181,2025-03-07,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Equipment reliability,low,14.8,13,1,Site Leadership
+INC-0000182,2025-03-07,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,low,26.8,11,7,Site Leadership
+INC-0000183,2025-03-08,CHI-02,Chicago Distribution Campus,North America,Kitting,Equipment reliability,high,4.9,12,6,Operations Excellence
+INC-0000184,2025-03-09,CHI-02,Chicago Distribution Campus,North America,Kitting,Supplier quality,low,4.0,15,4,Site Leadership
+INC-0000185,2025-03-10,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Equipment reliability,low,12.9,23,8,Site Leadership
+INC-0000186,2025-03-11,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Process discipline,medium,4.6,28,6,Site Leadership
+INC-0000187,2025-03-11,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,low,19.4,47,8,Site Leadership
+INC-0000188,2025-03-11,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Inventory variance,critical,19.6,15,8,Operations Excellence
+INC-0000189,2025-03-13,MAD-02,Madrid Service Center,Europe,Kitting,Process discipline,low,16.7,10,4,Site Leadership
+INC-0000190,2025-03-14,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Staffing instability,low,4.0,23,4,Site Leadership
+INC-0000191,2025-03-14,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,critical,22.5,19,8,Operations Excellence
+INC-0000192,2025-03-15,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,low,14.0,9,3,Site Leadership
+INC-0000193,2025-03-15,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,low,5.7,17,7,Site Leadership
+INC-0000194,2025-03-16,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Carrier exception,high,12.3,6,10,Operations Excellence
+INC-0000195,2025-03-16,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Process discipline,medium,26.0,6,7,Site Leadership
+INC-0000196,2025-03-17,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,high,16.4,20,9,Operations Excellence
+INC-0000197,2025-03-17,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Equipment reliability,low,6.8,23,5,Site Leadership
+INC-0000198,2025-03-17,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Supplier quality,low,20.0,17,7,Site Leadership
+INC-0000199,2025-03-17,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Process discipline,low,8.8,13,10,Site Leadership
+INC-0000200,2025-03-18,CHI-02,Chicago Distribution Campus,North America,Inbound,Supplier quality,low,8.9,18,4,Site Leadership
+INC-0000201,2025-03-18,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,critical,33.8,29,6,Operations Excellence
+INC-0000202,2025-03-18,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,medium,12.4,5,6,Site Leadership
+INC-0000203,2025-03-18,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,high,22.1,14,7,Operations Excellence
+INC-0000204,2025-03-19,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,critical,19.4,16,11,Operations Excellence
+INC-0000205,2025-03-19,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,low,12.1,11,3,Site Leadership
+INC-0000206,2025-03-20,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Carrier exception,low,20.2,19,6,Site Leadership
+INC-0000207,2025-03-20,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Process discipline,low,9.1,12,3,Site Leadership
+INC-0000208,2025-03-20,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,low,7.9,6,3,Site Leadership
+INC-0000209,2025-03-20,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Staffing instability,low,21.2,15,3,Site Leadership
+INC-0000210,2025-03-20,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,high,13.3,5,5,Operations Excellence
+INC-0000211,2025-03-21,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,medium,18.0,17,5,Site Leadership
+INC-0000212,2025-03-21,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,low,4.2,8,5,Site Leadership
+INC-0000213,2025-03-22,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Equipment reliability,low,6.8,25,5,Site Leadership
+INC-0000214,2025-03-22,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,critical,22.5,8,15,Operations Excellence
+INC-0000215,2025-03-22,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Process discipline,medium,13.5,29,10,Site Leadership
+INC-0000216,2025-03-22,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,critical,9.9,14,7,Operations Excellence
+INC-0000217,2025-03-22,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Supplier quality,high,19.5,10,7,Operations Excellence
+INC-0000218,2025-03-23,CHI-02,Chicago Distribution Campus,North America,Returns,Process discipline,medium,20.4,13,6,Site Leadership
+INC-0000219,2025-03-23,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Supplier quality,low,26.1,6,11,Site Leadership
+INC-0000220,2025-03-23,DXB-01,Dubai Regional Gateway,Middle East,Returns,Carrier exception,critical,29.5,6,11,Operations Excellence
+INC-0000221,2025-03-23,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Inventory variance,low,24.2,7,8,Site Leadership
+INC-0000222,2025-03-24,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,low,12.5,11,5,Site Leadership
+INC-0000223,2025-03-24,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,critical,13.8,4,5,Operations Excellence
+INC-0000224,2025-03-25,FRA-01,Frankfurt Regional Hub,Europe,Returns,Equipment reliability,low,8.9,16,4,Site Leadership
+INC-0000225,2025-03-25,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Equipment reliability,low,14.8,11,10,Site Leadership
+INC-0000226,2025-03-25,LHR-03,Milton Keynes Network Center,Europe,Kitting,Process discipline,low,15.9,11,4,Site Leadership
+INC-0000227,2025-03-27,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Process discipline,critical,17.9,18,14,Operations Excellence
+INC-0000228,2025-03-27,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,4.5,33,4,Site Leadership
+INC-0000229,2025-03-27,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,20.5,11,8,Site Leadership
+INC-0000230,2025-03-29,MEX-01,Monterrey Export Gateway,Latin America,Returns,Process discipline,low,14.8,3,4,Site Leadership
+INC-0000231,2025-03-29,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,medium,21.9,12,8,Site Leadership
+INC-0000232,2025-03-30,ATL-01,Atlanta Fulfillment Center,North America,Returns,Process discipline,low,16.7,14,3,Site Leadership
+INC-0000233,2025-03-30,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,medium,23.2,10,5,Site Leadership
+INC-0000234,2025-03-30,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Carrier exception,low,4.1,7,4,Site Leadership
+INC-0000235,2025-03-31,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Inventory variance,low,6.2,24,7,Site Leadership
+INC-0000236,2025-04-01,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,low,20.6,18,4,Site Leadership
+INC-0000237,2025-04-01,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Process discipline,medium,27.5,16,8,Site Leadership
+INC-0000238,2025-04-01,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,high,7.3,11,12,Operations Excellence
+INC-0000239,2025-04-02,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Equipment reliability,low,17.6,18,4,Site Leadership
+INC-0000240,2025-04-02,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,medium,20.9,15,6,Site Leadership
+INC-0000241,2025-04-03,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,low,24.0,8,7,Site Leadership
+INC-0000242,2025-04-03,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,medium,28.0,16,10,Site Leadership
+INC-0000243,2025-04-04,CHI-02,Chicago Distribution Campus,North America,Kitting,Supplier quality,low,27.3,17,3,Site Leadership
+INC-0000244,2025-04-04,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Process discipline,high,14.4,23,8,Operations Excellence
+INC-0000245,2025-04-04,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Staffing instability,low,13.4,30,1,Site Leadership
+INC-0000246,2025-04-05,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Carrier exception,high,12.5,17,7,Operations Excellence
+INC-0000247,2025-04-06,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Supplier quality,low,22.3,12,4,Site Leadership
+INC-0000248,2025-04-06,LHR-03,Milton Keynes Network Center,Europe,Returns,Equipment reliability,high,9.0,7,5,Operations Excellence
+INC-0000249,2025-04-07,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Inventory variance,low,18.8,16,3,Site Leadership
+INC-0000250,2025-04-07,MAD-02,Madrid Service Center,Europe,Returns,Process discipline,medium,14.8,9,8,Site Leadership
+INC-0000251,2025-04-07,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Staffing instability,medium,17.6,17,3,Site Leadership
+INC-0000252,2025-04-08,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,critical,11.1,11,16,Operations Excellence
+INC-0000253,2025-04-09,ATL-01,Atlanta Fulfillment Center,North America,Returns,Process discipline,medium,24.5,20,8,Site Leadership
+INC-0000254,2025-04-09,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,medium,4.8,12,3,Site Leadership
+INC-0000255,2025-04-09,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,low,17.3,8,5,Site Leadership
+INC-0000256,2025-04-09,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,high,9.2,5,6,Operations Excellence
+INC-0000257,2025-04-09,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,critical,10.3,18,13,Operations Excellence
+INC-0000258,2025-04-09,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,27.5,11,9,Site Leadership
+INC-0000259,2025-04-10,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Equipment reliability,medium,27.9,17,7,Site Leadership
+INC-0000260,2025-04-11,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Equipment reliability,medium,25.4,6,8,Site Leadership
+INC-0000261,2025-04-12,CHI-02,Chicago Distribution Campus,North America,Inbound,Process discipline,medium,19.0,18,6,Site Leadership
+INC-0000262,2025-04-12,MAD-02,Madrid Service Center,Europe,Fulfillment,Supplier quality,low,21.6,14,9,Site Leadership
+INC-0000263,2025-04-12,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,medium,23.2,12,6,Site Leadership
+INC-0000264,2025-04-13,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Equipment reliability,low,25.5,28,2,Site Leadership
+INC-0000265,2025-04-13,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,medium,15.2,14,9,Site Leadership
+INC-0000266,2025-04-13,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Carrier exception,critical,18.8,3,14,Operations Excellence
+INC-0000267,2025-04-14,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,low,14.4,17,3,Site Leadership
+INC-0000268,2025-04-14,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,low,22.0,12,6,Site Leadership
+INC-0000269,2025-04-15,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,medium,15.9,22,4,Site Leadership
+INC-0000270,2025-04-15,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,low,27.0,28,5,Site Leadership
+INC-0000271,2025-04-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Inventory variance,low,16.1,32,3,Site Leadership
+INC-0000272,2025-04-16,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Equipment reliability,critical,33.5,33,5,Operations Excellence
+INC-0000273,2025-04-17,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,medium,9.3,6,6,Site Leadership
+INC-0000274,2025-04-17,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Process discipline,high,11.5,6,8,Operations Excellence
+INC-0000275,2025-04-17,MAD-02,Madrid Service Center,Europe,Returns,Carrier exception,low,13.3,12,2,Site Leadership
+INC-0000276,2025-04-17,MAD-02,Madrid Service Center,Europe,Fulfillment,Carrier exception,medium,16.5,12,5,Site Leadership
+INC-0000277,2025-04-17,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,low,8.4,22,4,Site Leadership
+INC-0000278,2025-04-17,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Process discipline,low,26.9,17,4,Site Leadership
+INC-0000279,2025-04-19,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Equipment reliability,low,8.4,13,9,Site Leadership
+INC-0000280,2025-04-19,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,medium,12.5,12,7,Site Leadership
+INC-0000281,2025-04-19,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Supplier quality,low,9.4,13,7,Site Leadership
+INC-0000282,2025-04-19,MAD-02,Madrid Service Center,Europe,Inbound,Carrier exception,low,10.4,21,4,Site Leadership
+INC-0000283,2025-04-19,JHB-01,Johannesburg Service Hub,Africa,Kitting,Equipment reliability,medium,12.1,6,9,Site Leadership
+INC-0000284,2025-04-19,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,medium,9.7,9,4,Site Leadership
+INC-0000285,2025-04-20,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Carrier exception,low,15.0,17,10,Site Leadership
+INC-0000286,2025-04-20,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Supplier quality,low,14.3,18,5,Site Leadership
+INC-0000287,2025-04-20,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Inventory variance,high,25.5,8,5,Operations Excellence
+INC-0000288,2025-04-20,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Staffing instability,low,24.3,11,5,Site Leadership
+INC-0000289,2025-04-21,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,low,8.0,13,5,Site Leadership
+INC-0000290,2025-04-21,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Inventory variance,high,19.3,28,8,Operations Excellence
+INC-0000291,2025-04-22,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Equipment reliability,low,18.0,13,4,Site Leadership
+INC-0000292,2025-04-22,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,low,9.0,7,9,Site Leadership
+INC-0000293,2025-04-22,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Staffing instability,low,24.2,16,5,Site Leadership
+INC-0000294,2025-04-23,CHI-02,Chicago Distribution Campus,North America,Inbound,Process discipline,critical,15.7,22,9,Operations Excellence
+INC-0000295,2025-04-23,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,critical,12.5,16,14,Operations Excellence
+INC-0000296,2025-04-23,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,low,24.4,16,4,Site Leadership
+INC-0000297,2025-04-23,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Staffing instability,critical,13.2,18,14,Operations Excellence
+INC-0000298,2025-04-23,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,critical,30.6,3,5,Operations Excellence
+INC-0000299,2025-04-24,CHI-02,Chicago Distribution Campus,North America,Inbound,Inventory variance,low,24.5,15,6,Site Leadership
+INC-0000300,2025-04-24,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Staffing instability,medium,27.6,16,5,Site Leadership
+INC-0000301,2025-04-25,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Staffing instability,low,24.9,13,3,Site Leadership
+INC-0000302,2025-04-25,CHI-02,Chicago Distribution Campus,North America,Returns,Supplier quality,low,13.0,25,4,Site Leadership
+INC-0000303,2025-04-26,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Inventory variance,medium,14.8,28,9,Site Leadership
+INC-0000304,2025-04-26,LHR-03,Milton Keynes Network Center,Europe,Kitting,Inventory variance,low,19.4,17,1,Site Leadership
+INC-0000305,2025-04-26,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,medium,4.1,12,7,Site Leadership
+INC-0000306,2025-04-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Supplier quality,medium,26.0,15,7,Site Leadership
+INC-0000307,2025-04-27,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Inventory variance,low,24.7,9,2,Site Leadership
+INC-0000308,2025-04-28,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Process discipline,low,23.6,55,5,Site Leadership
+INC-0000309,2025-04-28,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,critical,13.2,14,5,Operations Excellence
+INC-0000310,2025-04-29,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,medium,21.8,23,3,Site Leadership
+INC-0000311,2025-04-29,FRA-01,Frankfurt Regional Hub,Europe,Returns,Equipment reliability,low,10.7,19,5,Site Leadership
+INC-0000312,2025-04-29,MAD-02,Madrid Service Center,Europe,Fulfillment,Staffing instability,medium,12.6,22,9,Site Leadership
+INC-0000313,2025-04-30,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,high,20.5,29,8,Operations Excellence
+INC-0000314,2025-04-30,JHB-01,Johannesburg Service Hub,Africa,Inbound,Staffing instability,low,24.8,12,4,Site Leadership
+INC-0000315,2025-04-30,JHB-01,Johannesburg Service Hub,Africa,Kitting,Staffing instability,critical,34.3,5,7,Operations Excellence
+INC-0000316,2025-05-01,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,medium,20.5,6,10,Site Leadership
+INC-0000317,2025-05-01,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Supplier quality,medium,10.6,27,5,Site Leadership
+INC-0000318,2025-05-01,JHB-01,Johannesburg Service Hub,Africa,Inbound,Equipment reliability,medium,19.5,13,7,Site Leadership
+INC-0000319,2025-05-02,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,low,22.6,16,6,Site Leadership
+INC-0000320,2025-05-02,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,low,10.0,7,6,Site Leadership
+INC-0000321,2025-05-02,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Equipment reliability,critical,24.4,24,6,Operations Excellence
+INC-0000322,2025-05-02,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Process discipline,low,7.7,12,5,Site Leadership
+INC-0000323,2025-05-04,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Carrier exception,low,21.4,22,6,Site Leadership
+INC-0000324,2025-05-04,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Carrier exception,critical,32.1,12,16,Operations Excellence
+INC-0000325,2025-05-04,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,medium,9.5,7,8,Site Leadership
+INC-0000326,2025-05-05,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,medium,5.0,18,5,Site Leadership
+INC-0000327,2025-05-06,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Process discipline,low,25.9,38,8,Site Leadership
+INC-0000328,2025-05-06,CHI-02,Chicago Distribution Campus,North America,Kitting,Inventory variance,critical,30.1,16,10,Operations Excellence
+INC-0000329,2025-05-06,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Carrier exception,low,26.3,20,7,Site Leadership
+INC-0000330,2025-05-07,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Process discipline,low,20.4,9,5,Site Leadership
+INC-0000331,2025-05-07,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,medium,15.0,5,3,Site Leadership
+INC-0000332,2025-05-07,JHB-01,Johannesburg Service Hub,Africa,Inbound,Inventory variance,low,13.7,7,7,Site Leadership
+INC-0000333,2025-05-08,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Supplier quality,high,24.8,14,9,Operations Excellence
+INC-0000334,2025-05-09,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Equipment reliability,medium,18.3,34,7,Site Leadership
+INC-0000335,2025-05-09,FRA-01,Frankfurt Regional Hub,Europe,Returns,Inventory variance,low,23.3,18,6,Site Leadership
+INC-0000336,2025-05-09,JHB-01,Johannesburg Service Hub,Africa,Inbound,Supplier quality,low,20.6,17,4,Site Leadership
+INC-0000337,2025-05-10,ATL-01,Atlanta Fulfillment Center,North America,Returns,Equipment reliability,low,10.9,7,5,Site Leadership
+INC-0000338,2025-05-10,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Inventory variance,low,25.2,22,5,Site Leadership
+INC-0000339,2025-05-10,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,critical,9.0,26,12,Operations Excellence
+INC-0000340,2025-05-11,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,medium,14.8,9,5,Site Leadership
+INC-0000341,2025-05-11,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,low,15.0,17,4,Site Leadership
+INC-0000342,2025-05-12,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,low,6.4,19,2,Site Leadership
+INC-0000343,2025-05-12,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,low,5.9,12,8,Site Leadership
+INC-0000344,2025-05-12,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Supplier quality,low,21.9,28,7,Site Leadership
+INC-0000345,2025-05-12,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Process discipline,medium,5.4,21,9,Site Leadership
+INC-0000346,2025-05-12,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Supplier quality,low,8.5,10,8,Site Leadership
+INC-0000347,2025-05-13,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Process discipline,low,15.7,34,4,Site Leadership
+INC-0000348,2025-05-13,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Supplier quality,medium,13.5,23,7,Site Leadership
+INC-0000349,2025-05-15,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Staffing instability,low,22.0,29,6,Site Leadership
+INC-0000350,2025-05-15,MAD-02,Madrid Service Center,Europe,Returns,Equipment reliability,low,6.5,8,8,Site Leadership
+INC-0000351,2025-05-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Carrier exception,medium,4.3,17,6,Site Leadership
+INC-0000352,2025-05-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Carrier exception,low,14.2,18,7,Site Leadership
+INC-0000353,2025-05-16,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Process discipline,medium,23.0,13,6,Site Leadership
+INC-0000354,2025-05-16,DXB-01,Dubai Regional Gateway,Middle East,Returns,Process discipline,low,23.2,10,5,Site Leadership
+INC-0000355,2025-05-17,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Equipment reliability,low,12.8,9,3,Site Leadership
+INC-0000356,2025-05-17,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,11.3,14,2,Site Leadership
+INC-0000357,2025-05-17,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Carrier exception,low,27.6,15,8,Site Leadership
+INC-0000358,2025-05-18,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Supplier quality,critical,22.5,10,5,Operations Excellence
+INC-0000359,2025-05-18,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Equipment reliability,medium,8.1,17,9,Site Leadership
+INC-0000360,2025-05-19,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,critical,30.9,7,6,Operations Excellence
+INC-0000361,2025-05-19,CHI-02,Chicago Distribution Campus,North America,Inbound,Supplier quality,low,14.5,16,4,Site Leadership
+INC-0000362,2025-05-19,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,low,23.0,15,7,Site Leadership
+INC-0000363,2025-05-19,MAD-02,Madrid Service Center,Europe,Returns,Process discipline,low,4.1,11,5,Site Leadership
+INC-0000364,2025-05-19,MAD-02,Madrid Service Center,Europe,Fulfillment,Equipment reliability,medium,17.3,27,3,Site Leadership
+INC-0000365,2025-05-19,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Carrier exception,low,20.9,4,4,Site Leadership
+INC-0000366,2025-05-19,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,medium,6.6,5,6,Site Leadership
+INC-0000367,2025-05-19,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Staffing instability,low,23.2,21,4,Site Leadership
+INC-0000368,2025-05-20,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,critical,11.1,26,7,Operations Excellence
+INC-0000369,2025-05-21,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,medium,13.6,22,7,Site Leadership
+INC-0000370,2025-05-23,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Inventory variance,low,7.2,19,4,Site Leadership
+INC-0000371,2025-05-23,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Staffing instability,low,25.9,30,1,Site Leadership
+INC-0000372,2025-05-23,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Supplier quality,critical,29.1,6,17,Operations Excellence
+INC-0000373,2025-05-24,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Carrier exception,low,23.7,37,5,Site Leadership
+INC-0000374,2025-05-24,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Staffing instability,medium,27.7,23,4,Site Leadership
+INC-0000375,2025-05-24,DXB-01,Dubai Regional Gateway,Middle East,Returns,Supplier quality,high,14.2,6,8,Operations Excellence
+INC-0000376,2025-05-25,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Equipment reliability,low,11.6,37,7,Site Leadership
+INC-0000377,2025-05-25,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,low,16.8,9,5,Site Leadership
+INC-0000378,2025-05-25,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Equipment reliability,low,7.7,14,6,Site Leadership
+INC-0000379,2025-05-26,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Inventory variance,low,20.0,12,3,Site Leadership
+INC-0000380,2025-05-26,CHI-02,Chicago Distribution Campus,North America,Returns,Inventory variance,low,20.0,7,6,Site Leadership
+INC-0000381,2025-05-26,MAD-02,Madrid Service Center,Europe,Fulfillment,Carrier exception,low,4.7,13,7,Site Leadership
+INC-0000382,2025-05-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Inventory variance,medium,8.7,47,9,Site Leadership
+INC-0000383,2025-05-27,CHI-02,Chicago Distribution Campus,North America,Returns,Process discipline,medium,6.7,16,8,Site Leadership
+INC-0000384,2025-05-27,LHR-03,Milton Keynes Network Center,Europe,Returns,Process discipline,medium,5.7,16,9,Site Leadership
+INC-0000385,2025-05-28,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,low,12.2,9,9,Site Leadership
+INC-0000386,2025-05-28,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Process discipline,medium,12.6,10,7,Site Leadership
+INC-0000387,2025-05-28,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,critical,14.1,5,6,Operations Excellence
+INC-0000388,2025-05-29,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,low,24.7,29,5,Site Leadership
+INC-0000389,2025-05-29,CHI-02,Chicago Distribution Campus,North America,Inbound,Inventory variance,medium,4.3,14,7,Site Leadership
+INC-0000390,2025-05-29,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Supplier quality,low,15.7,12,2,Site Leadership
+INC-0000391,2025-05-29,DXB-01,Dubai Regional Gateway,Middle East,Returns,Carrier exception,low,25.3,10,3,Site Leadership
+INC-0000392,2025-05-30,MAD-02,Madrid Service Center,Europe,Kitting,Equipment reliability,critical,26.2,13,9,Operations Excellence
+INC-0000393,2025-05-30,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Carrier exception,critical,14.8,10,8,Operations Excellence
+INC-0000394,2025-05-31,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Supplier quality,low,23.7,7,5,Site Leadership
+INC-0000395,2025-05-31,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,high,10.7,13,9,Operations Excellence
+INC-0000396,2025-05-31,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,critical,23.7,13,8,Operations Excellence
+INC-0000397,2025-06-01,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Inventory variance,medium,4.9,34,6,Site Leadership
+INC-0000398,2025-06-01,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,medium,10.5,9,11,Site Leadership
+INC-0000399,2025-06-01,JHB-01,Johannesburg Service Hub,Africa,Kitting,Equipment reliability,medium,12.1,11,4,Site Leadership
+INC-0000400,2025-06-01,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,medium,26.8,5,7,Site Leadership
+INC-0000401,2025-06-02,MAD-02,Madrid Service Center,Europe,Fulfillment,Equipment reliability,low,25.5,25,3,Site Leadership
+INC-0000402,2025-06-02,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Inventory variance,medium,9.0,16,10,Site Leadership
+INC-0000403,2025-06-03,CHI-02,Chicago Distribution Campus,North America,Inbound,Supplier quality,low,21.6,9,6,Site Leadership
+INC-0000404,2025-06-03,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Carrier exception,low,26.9,16,5,Site Leadership
+INC-0000405,2025-06-03,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,medium,15.3,12,5,Site Leadership
+INC-0000406,2025-06-03,JHB-01,Johannesburg Service Hub,Africa,Inbound,Staffing instability,critical,10.9,17,11,Operations Excellence
+INC-0000407,2025-06-03,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Supplier quality,critical,18.6,43,6,Operations Excellence
+INC-0000408,2025-06-04,CHI-02,Chicago Distribution Campus,North America,Returns,Staffing instability,critical,26.5,19,15,Operations Excellence
+INC-0000409,2025-06-04,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Process discipline,medium,10.9,26,13,Site Leadership
+INC-0000410,2025-06-04,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,medium,18.4,15,7,Site Leadership
+INC-0000411,2025-06-04,JHB-01,Johannesburg Service Hub,Africa,Kitting,Supplier quality,critical,38.4,4,11,Operations Excellence
+INC-0000412,2025-06-05,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Supplier quality,critical,36.0,17,9,Operations Excellence
+INC-0000413,2025-06-06,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,critical,31.8,13,10,Operations Excellence
+INC-0000414,2025-06-06,JHB-01,Johannesburg Service Hub,Africa,Inbound,Supplier quality,low,27.5,14,8,Site Leadership
+INC-0000415,2025-06-06,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Inventory variance,low,20.3,19,6,Site Leadership
+INC-0000416,2025-06-06,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Process discipline,low,26.2,8,5,Site Leadership
+INC-0000417,2025-06-07,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Process discipline,low,14.4,27,4,Site Leadership
+INC-0000418,2025-06-07,MAD-02,Madrid Service Center,Europe,Returns,Inventory variance,medium,23.7,6,11,Site Leadership
+INC-0000419,2025-06-07,LHR-03,Milton Keynes Network Center,Europe,Inbound,Staffing instability,low,21.9,25,1,Site Leadership
+INC-0000420,2025-06-07,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,low,26.4,14,4,Site Leadership
+INC-0000421,2025-06-08,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,critical,36.9,39,17,Operations Excellence
+INC-0000422,2025-06-08,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Staffing instability,low,4.0,15,5,Site Leadership
+INC-0000423,2025-06-08,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Equipment reliability,medium,21.7,8,7,Site Leadership
+INC-0000424,2025-06-09,CHI-02,Chicago Distribution Campus,North America,Inbound,Process discipline,low,8.5,32,7,Site Leadership
+INC-0000425,2025-06-09,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Supplier quality,medium,16.4,18,6,Site Leadership
+INC-0000426,2025-06-10,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,low,13.2,12,3,Site Leadership
+INC-0000427,2025-06-10,DXB-01,Dubai Regional Gateway,Middle East,Returns,Inventory variance,high,20.0,7,10,Operations Excellence
+INC-0000428,2025-06-10,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Carrier exception,low,7.3,18,6,Site Leadership
+INC-0000429,2025-06-11,CHI-02,Chicago Distribution Campus,North America,Inbound,Carrier exception,low,18.4,25,3,Site Leadership
+INC-0000430,2025-06-12,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,medium,12.4,32,5,Site Leadership
+INC-0000431,2025-06-12,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,low,16.0,18,6,Site Leadership
+INC-0000432,2025-06-12,MAD-02,Madrid Service Center,Europe,Returns,Supplier quality,medium,11.8,10,7,Site Leadership
+INC-0000433,2025-06-12,JHB-01,Johannesburg Service Hub,Africa,Kitting,Process discipline,low,14.1,9,4,Site Leadership
+INC-0000434,2025-06-13,LHR-03,Milton Keynes Network Center,Europe,Kitting,Carrier exception,low,22.3,13,5,Site Leadership
+INC-0000435,2025-06-13,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Inventory variance,low,13.6,5,8,Site Leadership
+INC-0000436,2025-06-14,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Carrier exception,low,5.3,37,5,Site Leadership
+INC-0000437,2025-06-14,DXB-01,Dubai Regional Gateway,Middle East,Returns,Inventory variance,medium,10.7,7,5,Site Leadership
+INC-0000438,2025-06-14,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Carrier exception,medium,14.4,25,10,Site Leadership
+INC-0000439,2025-06-15,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Equipment reliability,critical,36.2,41,8,Operations Excellence
+INC-0000440,2025-06-15,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Inventory variance,critical,7.3,13,8,Operations Excellence
+INC-0000441,2025-06-15,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,medium,23.4,10,5,Site Leadership
+INC-0000442,2025-06-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,medium,10.9,15,10,Site Leadership
+INC-0000443,2025-06-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Inventory variance,critical,14.3,11,8,Operations Excellence
+INC-0000444,2025-06-16,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,low,18.1,9,3,Site Leadership
+INC-0000445,2025-06-16,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Inventory variance,low,6.8,21,7,Site Leadership
+INC-0000446,2025-06-16,MAD-02,Madrid Service Center,Europe,Inbound,Process discipline,low,9.7,12,2,Site Leadership
+INC-0000447,2025-06-16,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Supplier quality,medium,25.9,51,10,Site Leadership
+INC-0000448,2025-06-17,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Supplier quality,medium,19.2,15,9,Site Leadership
+INC-0000449,2025-06-17,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Process discipline,low,7.6,27,5,Site Leadership
+INC-0000450,2025-06-17,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,medium,25.1,18,7,Site Leadership
+INC-0000451,2025-06-20,CHI-02,Chicago Distribution Campus,North America,Returns,Staffing instability,critical,34.0,14,12,Operations Excellence
+INC-0000452,2025-06-20,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,medium,12.1,6,7,Site Leadership
+INC-0000453,2025-06-21,CHI-02,Chicago Distribution Campus,North America,Returns,Carrier exception,medium,27.1,5,6,Site Leadership
+INC-0000454,2025-06-21,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Carrier exception,critical,15.1,24,6,Operations Excellence
+INC-0000455,2025-06-21,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Staffing instability,low,9.5,9,4,Site Leadership
+INC-0000456,2025-06-21,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Equipment reliability,low,12.9,19,5,Site Leadership
+INC-0000457,2025-06-21,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Supplier quality,medium,8.4,17,9,Site Leadership
+INC-0000458,2025-06-23,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Supplier quality,low,12.5,15,2,Site Leadership
+INC-0000459,2025-06-23,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Inventory variance,critical,33.9,25,14,Operations Excellence
+INC-0000460,2025-06-23,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Process discipline,low,21.5,28,6,Site Leadership
+INC-0000461,2025-06-23,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,medium,20.4,21,8,Site Leadership
+INC-0000462,2025-06-23,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,low,15.0,39,6,Site Leadership
+INC-0000463,2025-06-23,LHR-03,Milton Keynes Network Center,Europe,Returns,Process discipline,low,27.6,13,3,Site Leadership
+INC-0000464,2025-06-23,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,low,8.5,23,8,Site Leadership
+INC-0000465,2025-06-23,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Process discipline,low,24.7,14,3,Site Leadership
+INC-0000466,2025-06-23,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Staffing instability,low,18.9,14,4,Site Leadership
+INC-0000467,2025-06-24,MAD-02,Madrid Service Center,Europe,Inbound,Staffing instability,critical,21.7,12,15,Operations Excellence
+INC-0000468,2025-06-24,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Staffing instability,medium,14.2,19,7,Site Leadership
+INC-0000469,2025-06-24,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Equipment reliability,low,10.6,17,4,Site Leadership
+INC-0000470,2025-06-25,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,low,9.7,19,8,Site Leadership
+INC-0000471,2025-06-25,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Process discipline,critical,12.8,15,12,Operations Excellence
+INC-0000472,2025-06-26,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Supplier quality,low,14.1,27,6,Site Leadership
+INC-0000473,2025-06-28,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Inventory variance,low,11.1,14,6,Site Leadership
+INC-0000474,2025-06-29,CHI-02,Chicago Distribution Campus,North America,Inbound,Equipment reliability,medium,7.0,9,8,Site Leadership
+INC-0000475,2025-06-29,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,low,11.6,15,5,Site Leadership
+INC-0000476,2025-06-30,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Process discipline,medium,11.7,4,7,Site Leadership
+INC-0000477,2025-07-01,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Supplier quality,low,10.7,21,4,Site Leadership
+INC-0000478,2025-07-02,MAD-02,Madrid Service Center,Europe,Kitting,Supplier quality,medium,26.2,8,6,Site Leadership
+INC-0000479,2025-07-02,MAD-02,Madrid Service Center,Europe,Returns,Equipment reliability,low,17.4,7,4,Site Leadership
+INC-0000480,2025-07-02,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Supplier quality,medium,13.5,15,3,Site Leadership
+INC-0000481,2025-07-03,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Staffing instability,low,7.6,18,6,Site Leadership
+INC-0000482,2025-07-03,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,high,8.5,15,5,Operations Excellence
+INC-0000483,2025-07-04,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Carrier exception,low,9.4,59,5,Site Leadership
+INC-0000484,2025-07-04,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Inventory variance,critical,15.6,12,11,Operations Excellence
+INC-0000485,2025-07-05,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Supplier quality,low,24.4,35,2,Site Leadership
+INC-0000486,2025-07-05,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,15.8,18,5,Site Leadership
+INC-0000487,2025-07-06,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Carrier exception,low,12.0,12,4,Site Leadership
+INC-0000488,2025-07-06,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Process discipline,medium,6.4,20,10,Site Leadership
+INC-0000489,2025-07-06,JHB-01,Johannesburg Service Hub,Africa,Kitting,Inventory variance,critical,30.5,7,10,Operations Excellence
+INC-0000490,2025-07-06,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,medium,20.8,6,9,Site Leadership
+INC-0000491,2025-07-07,MAD-02,Madrid Service Center,Europe,Returns,Staffing instability,low,26.1,8,3,Site Leadership
+INC-0000492,2025-07-07,LHR-03,Milton Keynes Network Center,Europe,Inbound,Process discipline,medium,12.4,24,5,Site Leadership
+INC-0000493,2025-07-07,DXB-01,Dubai Regional Gateway,Middle East,Returns,Process discipline,critical,19.0,7,6,Operations Excellence
+INC-0000494,2025-07-07,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,critical,30.1,25,7,Operations Excellence
+INC-0000495,2025-07-08,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,medium,18.5,7,5,Site Leadership
+INC-0000496,2025-07-09,ATL-01,Atlanta Fulfillment Center,North America,Returns,Supplier quality,low,27.9,25,4,Site Leadership
+INC-0000497,2025-07-09,CHI-02,Chicago Distribution Campus,North America,Inbound,Process discipline,low,13.0,10,2,Site Leadership
+INC-0000498,2025-07-09,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Carrier exception,low,4.5,11,3,Site Leadership
+INC-0000499,2025-07-09,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Equipment reliability,low,18.3,32,4,Site Leadership
+INC-0000500,2025-07-09,MAD-02,Madrid Service Center,Europe,Returns,Staffing instability,medium,23.4,5,4,Site Leadership
+INC-0000501,2025-07-09,MAD-02,Madrid Service Center,Europe,Inbound,Staffing instability,medium,19.7,7,6,Site Leadership
+INC-0000502,2025-07-09,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Process discipline,low,9.7,16,2,Site Leadership
+INC-0000503,2025-07-10,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Staffing instability,low,9.6,21,6,Site Leadership
+INC-0000504,2025-07-10,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Equipment reliability,low,26.9,23,8,Site Leadership
+INC-0000505,2025-07-10,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Staffing instability,low,6.9,9,1,Site Leadership
+INC-0000506,2025-07-12,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Equipment reliability,medium,17.3,14,8,Site Leadership
+INC-0000507,2025-07-12,JHB-01,Johannesburg Service Hub,Africa,Inbound,Staffing instability,medium,9.3,13,9,Site Leadership
+INC-0000508,2025-07-14,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Carrier exception,medium,13.3,5,5,Site Leadership
+INC-0000509,2025-07-14,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Equipment reliability,medium,12.4,11,4,Site Leadership
+INC-0000510,2025-07-14,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Supplier quality,critical,9.1,22,14,Operations Excellence
+INC-0000511,2025-07-15,LHR-03,Milton Keynes Network Center,Europe,Inbound,Inventory variance,low,22.8,34,4,Site Leadership
+INC-0000512,2025-07-15,JHB-01,Johannesburg Service Hub,Africa,Kitting,Inventory variance,critical,19.0,13,10,Operations Excellence
+INC-0000513,2025-07-15,JHB-01,Johannesburg Service Hub,Africa,Kitting,Staffing instability,low,18.7,14,2,Site Leadership
+INC-0000514,2025-07-15,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,high,4.1,13,10,Operations Excellence
+INC-0000515,2025-07-15,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,26.6,17,1,Site Leadership
+INC-0000516,2025-07-15,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Supplier quality,low,7.1,12,5,Site Leadership
+INC-0000517,2025-07-16,FRA-01,Frankfurt Regional Hub,Europe,Returns,Supplier quality,low,12.8,13,6,Site Leadership
+INC-0000518,2025-07-16,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,medium,27.7,15,9,Site Leadership
+INC-0000519,2025-07-17,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,medium,9.6,18,11,Site Leadership
+INC-0000520,2025-07-17,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,low,14.6,28,4,Site Leadership
+INC-0000521,2025-07-17,MAD-02,Madrid Service Center,Europe,Fulfillment,Process discipline,medium,21.9,35,6,Site Leadership
+INC-0000522,2025-07-19,CHI-02,Chicago Distribution Campus,North America,Kitting,Supplier quality,low,18.1,12,2,Site Leadership
+INC-0000523,2025-07-19,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Supplier quality,low,24.8,19,5,Site Leadership
+INC-0000524,2025-07-21,MAD-02,Madrid Service Center,Europe,Kitting,Inventory variance,critical,36.5,6,14,Operations Excellence
+INC-0000525,2025-07-21,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Inventory variance,low,4.3,21,8,Site Leadership
+INC-0000526,2025-07-21,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Carrier exception,low,26.1,11,7,Site Leadership
+INC-0000527,2025-07-22,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Supplier quality,low,14.5,13,3,Site Leadership
+INC-0000528,2025-07-22,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,high,5.6,9,8,Operations Excellence
+INC-0000529,2025-07-22,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,medium,5.3,11,9,Site Leadership
+INC-0000530,2025-07-22,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Supplier quality,low,13.0,18,5,Site Leadership
+INC-0000531,2025-07-23,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Carrier exception,low,9.3,18,6,Site Leadership
+INC-0000532,2025-07-24,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Equipment reliability,low,21.7,40,7,Site Leadership
+INC-0000533,2025-07-24,CHI-02,Chicago Distribution Campus,North America,Returns,Staffing instability,high,25.8,8,4,Operations Excellence
+INC-0000534,2025-07-24,MEX-01,Monterrey Export Gateway,Latin America,Returns,Process discipline,critical,21.1,17,8,Operations Excellence
+INC-0000535,2025-07-24,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,critical,14.7,12,13,Operations Excellence
+INC-0000536,2025-07-24,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Supplier quality,low,18.8,20,3,Site Leadership
+INC-0000537,2025-07-25,CHI-02,Chicago Distribution Campus,North America,Kitting,Equipment reliability,critical,13.0,5,7,Operations Excellence
+INC-0000538,2025-07-25,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Staffing instability,low,21.5,28,5,Site Leadership
+INC-0000539,2025-07-25,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Carrier exception,medium,7.3,6,8,Site Leadership
+INC-0000540,2025-07-25,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Staffing instability,critical,21.2,6,6,Operations Excellence
+INC-0000541,2025-07-26,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,low,26.2,25,6,Site Leadership
+INC-0000542,2025-07-26,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,medium,18.5,12,11,Site Leadership
+INC-0000543,2025-07-26,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Staffing instability,medium,18.1,7,6,Site Leadership
+INC-0000544,2025-07-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Carrier exception,low,25.8,9,6,Site Leadership
+INC-0000545,2025-07-27,LHR-03,Milton Keynes Network Center,Europe,Inbound,Staffing instability,low,10.7,15,4,Site Leadership
+INC-0000546,2025-07-28,ATL-01,Atlanta Fulfillment Center,North America,Returns,Carrier exception,low,18.2,23,3,Site Leadership
+INC-0000547,2025-07-28,CHI-02,Chicago Distribution Campus,North America,Kitting,Carrier exception,low,19.7,25,8,Site Leadership
+INC-0000548,2025-07-28,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Staffing instability,low,8.2,22,5,Site Leadership
+INC-0000549,2025-07-28,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Equipment reliability,low,21.1,24,6,Site Leadership
+INC-0000550,2025-07-28,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Carrier exception,low,16.3,53,6,Site Leadership
+INC-0000551,2025-07-28,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,high,23.3,23,8,Operations Excellence
+INC-0000552,2025-07-28,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Inventory variance,low,24.3,17,2,Site Leadership
+INC-0000553,2025-07-29,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,low,15.3,13,2,Site Leadership
+INC-0000554,2025-07-29,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Staffing instability,low,5.3,20,4,Site Leadership
+INC-0000555,2025-07-30,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Supplier quality,low,24.3,43,6,Site Leadership
+INC-0000556,2025-07-30,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Supplier quality,medium,5.3,10,6,Site Leadership
+INC-0000557,2025-07-31,CHI-02,Chicago Distribution Campus,North America,Returns,Supplier quality,low,5.8,9,1,Site Leadership
+INC-0000558,2025-07-31,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Supplier quality,low,26.0,38,4,Site Leadership
+INC-0000559,2025-07-31,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Carrier exception,low,27.2,12,2,Site Leadership
+INC-0000560,2025-08-01,MAD-02,Madrid Service Center,Europe,Returns,Carrier exception,medium,25.1,17,5,Site Leadership
+INC-0000561,2025-08-01,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Equipment reliability,low,12.9,13,5,Site Leadership
+INC-0000562,2025-08-02,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Staffing instability,low,25.8,32,5,Site Leadership
+INC-0000563,2025-08-03,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,medium,4.4,14,6,Site Leadership
+INC-0000564,2025-08-03,DXB-01,Dubai Regional Gateway,Middle East,Returns,Supplier quality,medium,23.3,9,4,Site Leadership
+INC-0000565,2025-08-03,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,medium,4.1,15,9,Site Leadership
+INC-0000566,2025-08-04,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,medium,7.0,23,9,Site Leadership
+INC-0000567,2025-08-04,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,critical,26.1,7,18,Operations Excellence
+INC-0000568,2025-08-05,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Staffing instability,critical,27.0,16,8,Operations Excellence
+INC-0000569,2025-08-05,FRA-01,Frankfurt Regional Hub,Europe,Returns,Staffing instability,high,11.9,19,5,Operations Excellence
+INC-0000570,2025-08-05,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Supplier quality,low,26.9,10,4,Site Leadership
+INC-0000571,2025-08-05,LHR-03,Milton Keynes Network Center,Europe,Kitting,Equipment reliability,low,20.7,5,3,Site Leadership
+INC-0000572,2025-08-05,LHR-03,Milton Keynes Network Center,Europe,Returns,Carrier exception,low,14.2,19,5,Site Leadership
+INC-0000573,2025-08-05,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Inventory variance,low,7.1,15,1,Site Leadership
+INC-0000574,2025-08-05,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Supplier quality,medium,5.4,14,11,Site Leadership
+INC-0000575,2025-08-06,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Carrier exception,medium,21.5,18,6,Site Leadership
+INC-0000576,2025-08-06,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Staffing instability,low,11.9,10,4,Site Leadership
+INC-0000577,2025-08-06,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,low,25.1,9,5,Site Leadership
+INC-0000578,2025-08-07,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Inventory variance,medium,4.7,40,8,Site Leadership
+INC-0000579,2025-08-07,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,medium,25.3,11,7,Site Leadership
+INC-0000580,2025-08-07,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,low,9.8,25,5,Site Leadership
+INC-0000581,2025-08-07,LHR-03,Milton Keynes Network Center,Europe,Kitting,Equipment reliability,low,4.1,6,5,Site Leadership
+INC-0000582,2025-08-08,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Staffing instability,critical,38.3,34,13,Operations Excellence
+INC-0000583,2025-08-08,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Equipment reliability,low,26.0,29,6,Site Leadership
+INC-0000584,2025-08-08,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,23.4,36,5,Site Leadership
+INC-0000585,2025-08-08,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Process discipline,low,25.0,6,4,Site Leadership
+INC-0000586,2025-08-08,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Supplier quality,low,26.4,10,6,Site Leadership
+INC-0000587,2025-08-09,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Carrier exception,high,12.6,12,6,Operations Excellence
+INC-0000588,2025-08-09,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Equipment reliability,low,8.3,10,6,Site Leadership
+INC-0000589,2025-08-09,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Inventory variance,medium,14.9,22,5,Site Leadership
+INC-0000590,2025-08-10,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Process discipline,low,13.5,29,3,Site Leadership
+INC-0000591,2025-08-10,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Equipment reliability,low,26.9,18,2,Site Leadership
+INC-0000592,2025-08-10,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,critical,9.5,5,6,Operations Excellence
+INC-0000593,2025-08-10,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Process discipline,low,8.1,19,4,Site Leadership
+INC-0000594,2025-08-11,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Carrier exception,low,7.0,11,5,Site Leadership
+INC-0000595,2025-08-12,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Process discipline,low,16.7,35,11,Site Leadership
+INC-0000596,2025-08-12,LHR-03,Milton Keynes Network Center,Europe,Inbound,Inventory variance,medium,10.8,15,7,Site Leadership
+INC-0000597,2025-08-12,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,medium,20.1,25,7,Site Leadership
+INC-0000598,2025-08-13,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,low,21.2,13,6,Site Leadership
+INC-0000599,2025-08-13,FRA-01,Frankfurt Regional Hub,Europe,Returns,Supplier quality,low,9.3,24,3,Site Leadership
+INC-0000600,2025-08-13,MAD-02,Madrid Service Center,Europe,Inbound,Carrier exception,critical,6.5,17,9,Operations Excellence
+INC-0000601,2025-08-13,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Equipment reliability,medium,6.0,16,6,Site Leadership
+INC-0000602,2025-08-13,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,low,19.2,10,4,Site Leadership
+INC-0000603,2025-08-13,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Staffing instability,low,13.9,23,1,Site Leadership
+INC-0000604,2025-08-14,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Equipment reliability,low,18.0,34,7,Site Leadership
+INC-0000605,2025-08-15,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,low,23.6,30,3,Site Leadership
+INC-0000606,2025-08-15,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,high,18.5,8,9,Operations Excellence
+INC-0000607,2025-08-15,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Supplier quality,low,6.0,24,3,Site Leadership
+INC-0000608,2025-08-15,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,medium,25.0,10,4,Site Leadership
+INC-0000609,2025-08-16,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,medium,12.3,30,11,Site Leadership
+INC-0000610,2025-08-17,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Inventory variance,medium,6.3,15,6,Site Leadership
+INC-0000611,2025-08-18,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,low,17.8,17,6,Site Leadership
+INC-0000612,2025-08-18,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,low,9.2,21,4,Site Leadership
+INC-0000613,2025-08-18,JHB-01,Johannesburg Service Hub,Africa,Inbound,Inventory variance,low,26.1,12,7,Site Leadership
+INC-0000614,2025-08-18,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,24.0,23,6,Site Leadership
+INC-0000615,2025-08-19,CHI-02,Chicago Distribution Campus,North America,Inbound,Inventory variance,low,6.9,15,5,Site Leadership
+INC-0000616,2025-08-19,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,medium,21.5,19,5,Site Leadership
+INC-0000617,2025-08-19,DXB-01,Dubai Regional Gateway,Middle East,Returns,Process discipline,low,9.9,11,6,Site Leadership
+INC-0000618,2025-08-19,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Carrier exception,high,10.0,20,8,Operations Excellence
+INC-0000619,2025-08-20,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,low,25.6,10,4,Site Leadership
+INC-0000620,2025-08-22,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Inventory variance,critical,35.1,9,6,Operations Excellence
+INC-0000621,2025-08-23,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Process discipline,medium,27.3,19,4,Site Leadership
+INC-0000622,2025-08-23,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Inventory variance,medium,23.8,7,5,Site Leadership
+INC-0000623,2025-08-24,CHI-02,Chicago Distribution Campus,North America,Kitting,Supplier quality,medium,27.7,6,8,Site Leadership
+INC-0000624,2025-08-24,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,medium,7.5,7,5,Site Leadership
+INC-0000625,2025-08-24,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Staffing instability,medium,23.9,12,6,Site Leadership
+INC-0000626,2025-08-25,CHI-02,Chicago Distribution Campus,North America,Returns,Equipment reliability,low,8.4,6,3,Site Leadership
+INC-0000627,2025-08-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Inventory variance,medium,7.9,39,5,Site Leadership
+INC-0000628,2025-08-27,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Staffing instability,low,14.5,17,6,Site Leadership
+INC-0000629,2025-08-27,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Inventory variance,low,26.9,12,6,Site Leadership
+INC-0000630,2025-08-29,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,medium,16.2,23,7,Site Leadership
+INC-0000631,2025-08-29,MEX-01,Monterrey Export Gateway,Latin America,Returns,Process discipline,critical,24.1,17,8,Operations Excellence
+INC-0000632,2025-08-29,LHR-03,Milton Keynes Network Center,Europe,Kitting,Inventory variance,low,12.4,20,7,Site Leadership
+INC-0000633,2025-08-29,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Carrier exception,low,13.9,36,7,Site Leadership
+INC-0000634,2025-08-30,CHI-02,Chicago Distribution Campus,North America,Inbound,Carrier exception,high,20.5,17,8,Operations Excellence
+INC-0000635,2025-08-30,JHB-01,Johannesburg Service Hub,Africa,Inbound,Inventory variance,medium,13.6,14,5,Site Leadership
+INC-0000636,2025-08-30,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Inventory variance,low,21.4,25,3,Site Leadership
+INC-0000637,2025-08-30,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Carrier exception,low,19.1,18,3,Site Leadership
+INC-0000638,2025-08-31,MAD-02,Madrid Service Center,Europe,Inbound,Supplier quality,medium,17.0,19,8,Site Leadership
+INC-0000639,2025-08-31,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Inventory variance,low,18.1,18,5,Site Leadership
+INC-0000640,2025-08-31,JHB-01,Johannesburg Service Hub,Africa,Returns,Carrier exception,critical,20.3,6,6,Operations Excellence
+INC-0000641,2025-08-31,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Process discipline,low,25.3,15,5,Site Leadership
+INC-0000642,2025-09-02,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Process discipline,medium,8.2,19,9,Site Leadership
+INC-0000643,2025-09-02,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,medium,11.8,9,8,Site Leadership
+INC-0000644,2025-09-03,FRA-01,Frankfurt Regional Hub,Europe,Returns,Process discipline,low,22.6,14,10,Site Leadership
+INC-0000645,2025-09-03,MAD-02,Madrid Service Center,Europe,Kitting,Equipment reliability,low,14.8,13,8,Site Leadership
+INC-0000646,2025-09-04,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,high,27.7,42,12,Operations Excellence
+INC-0000647,2025-09-05,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Process discipline,medium,5.6,38,8,Site Leadership
+INC-0000648,2025-09-05,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,high,20.4,15,4,Operations Excellence
+INC-0000649,2025-09-05,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Equipment reliability,low,22.4,16,2,Site Leadership
+INC-0000650,2025-09-06,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Process discipline,low,19.3,17,4,Site Leadership
+INC-0000651,2025-09-06,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,low,7.2,33,4,Site Leadership
+INC-0000652,2025-09-07,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,high,11.1,10,12,Operations Excellence
+INC-0000653,2025-09-08,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Staffing instability,medium,19.7,10,6,Site Leadership
+INC-0000654,2025-09-09,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Supplier quality,medium,13.5,7,5,Site Leadership
+INC-0000655,2025-09-09,JHB-01,Johannesburg Service Hub,Africa,Inbound,Carrier exception,medium,16.9,14,8,Site Leadership
+INC-0000656,2025-09-09,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Carrier exception,high,26.2,18,7,Operations Excellence
+INC-0000657,2025-09-10,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Staffing instability,low,4.0,18,2,Site Leadership
+INC-0000658,2025-09-10,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,critical,26.6,9,5,Operations Excellence
+INC-0000659,2025-09-10,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Carrier exception,low,13.0,14,5,Site Leadership
+INC-0000660,2025-09-11,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,high,8.3,6,5,Operations Excellence
+INC-0000661,2025-09-11,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Staffing instability,low,26.2,13,5,Site Leadership
+INC-0000662,2025-09-12,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Supplier quality,medium,20.3,33,6,Site Leadership
+INC-0000663,2025-09-12,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,11.9,6,2,Site Leadership
+INC-0000664,2025-09-12,JHB-01,Johannesburg Service Hub,Africa,Kitting,Process discipline,low,25.3,5,5,Site Leadership
+INC-0000665,2025-09-14,MAD-02,Madrid Service Center,Europe,Inbound,Staffing instability,low,25.1,23,6,Site Leadership
+INC-0000666,2025-09-15,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Staffing instability,medium,5.2,10,8,Site Leadership
+INC-0000667,2025-09-15,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Equipment reliability,low,22.1,25,4,Site Leadership
+INC-0000668,2025-09-15,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Staffing instability,high,4.8,28,6,Operations Excellence
+INC-0000669,2025-09-16,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,critical,20.6,13,7,Operations Excellence
+INC-0000670,2025-09-16,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Inventory variance,low,26.3,16,5,Site Leadership
+INC-0000671,2025-09-16,SIN-01,Singapore Control Tower,Asia Pacific,Inbound,Supplier quality,critical,38.9,22,7,Operations Excellence
+INC-0000672,2025-09-17,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Process discipline,medium,7.9,32,6,Site Leadership
+INC-0000673,2025-09-17,CHI-02,Chicago Distribution Campus,North America,Inbound,Equipment reliability,low,18.1,21,4,Site Leadership
+INC-0000674,2025-09-17,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,high,5.2,6,12,Operations Excellence
+INC-0000675,2025-09-17,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Supplier quality,medium,23.7,10,5,Site Leadership
+INC-0000676,2025-09-18,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Supplier quality,high,26.2,13,6,Operations Excellence
+INC-0000677,2025-09-18,LHR-03,Milton Keynes Network Center,Europe,Returns,Equipment reliability,medium,16.0,21,6,Site Leadership
+INC-0000678,2025-09-18,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,critical,35.8,22,10,Operations Excellence
+INC-0000679,2025-09-19,JHB-01,Johannesburg Service Hub,Africa,Kitting,Equipment reliability,high,13.3,6,13,Operations Excellence
+INC-0000680,2025-09-19,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,7.9,12,5,Site Leadership
+INC-0000681,2025-09-20,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,low,5.6,11,2,Site Leadership
+INC-0000682,2025-09-20,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Inventory variance,low,6.6,36,6,Site Leadership
+INC-0000683,2025-09-20,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Supplier quality,low,19.9,10,4,Site Leadership
+INC-0000684,2025-09-20,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Supplier quality,low,22.9,10,4,Site Leadership
+INC-0000685,2025-09-21,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Carrier exception,medium,14.5,20,7,Site Leadership
+INC-0000686,2025-09-22,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Carrier exception,low,15.1,23,4,Site Leadership
+INC-0000687,2025-09-22,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Carrier exception,low,5.6,18,7,Site Leadership
+INC-0000688,2025-09-22,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Inventory variance,low,11.8,26,8,Site Leadership
+INC-0000689,2025-09-22,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,high,20.0,12,8,Operations Excellence
+INC-0000690,2025-09-23,ATL-01,Atlanta Fulfillment Center,North America,Returns,Process discipline,low,15.6,10,6,Site Leadership
+INC-0000691,2025-09-23,DXB-01,Dubai Regional Gateway,Middle East,Returns,Process discipline,low,5.0,13,7,Site Leadership
+INC-0000692,2025-09-23,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Supplier quality,low,9.0,18,4,Site Leadership
+INC-0000693,2025-09-23,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Staffing instability,medium,21.9,12,4,Site Leadership
+INC-0000694,2025-09-23,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Supplier quality,critical,33.0,9,10,Operations Excellence
+INC-0000695,2025-09-24,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Supplier quality,low,17.0,16,7,Site Leadership
+INC-0000696,2025-09-24,CHI-02,Chicago Distribution Campus,North America,Kitting,Staffing instability,low,21.2,22,4,Site Leadership
+INC-0000697,2025-09-24,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Carrier exception,low,10.5,27,9,Site Leadership
+INC-0000698,2025-09-24,MAD-02,Madrid Service Center,Europe,Inbound,Equipment reliability,low,5.6,9,8,Site Leadership
+INC-0000699,2025-09-25,CHI-02,Chicago Distribution Campus,North America,Kitting,Staffing instability,low,17.0,6,4,Site Leadership
+INC-0000700,2025-09-25,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Carrier exception,low,6.0,14,3,Site Leadership
+INC-0000701,2025-09-25,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,low,4.9,7,7,Site Leadership
+INC-0000702,2025-09-26,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Equipment reliability,low,15.0,57,7,Site Leadership
+INC-0000703,2025-09-26,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Carrier exception,critical,16.2,9,12,Operations Excellence
+INC-0000704,2025-09-26,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Equipment reliability,low,25.6,46,7,Site Leadership
+INC-0000705,2025-09-26,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Equipment reliability,low,16.0,17,4,Site Leadership
+INC-0000706,2025-09-27,ATL-01,Atlanta Fulfillment Center,North America,Returns,Staffing instability,medium,5.0,12,3,Site Leadership
+INC-0000707,2025-09-27,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Supplier quality,medium,15.9,12,9,Site Leadership
+INC-0000708,2025-09-27,MAD-02,Madrid Service Center,Europe,Inbound,Carrier exception,low,25.0,14,5,Site Leadership
+INC-0000709,2025-09-27,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Supplier quality,high,10.1,10,14,Operations Excellence
+INC-0000710,2025-09-28,ATL-01,Atlanta Fulfillment Center,North America,Returns,Equipment reliability,low,22.6,11,4,Site Leadership
+INC-0000711,2025-09-28,MEX-01,Monterrey Export Gateway,Latin America,Returns,Supplier quality,low,19.3,12,9,Site Leadership
+INC-0000712,2025-09-29,CHI-02,Chicago Distribution Campus,North America,Fulfillment,Process discipline,medium,23.4,22,10,Site Leadership
+INC-0000713,2025-09-29,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Supplier quality,medium,4.2,4,6,Site Leadership
+INC-0000714,2025-09-29,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Supplier quality,high,25.8,48,10,Operations Excellence
+INC-0000715,2025-09-29,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,high,27.1,48,6,Operations Excellence
+INC-0000716,2025-09-30,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Carrier exception,medium,8.5,18,7,Site Leadership
+INC-0000717,2025-09-30,JHB-01,Johannesburg Service Hub,Africa,Returns,Supplier quality,high,4.5,15,7,Operations Excellence
+INC-0000718,2025-09-30,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Equipment reliability,medium,13.6,40,7,Site Leadership
+INC-0000719,2025-10-01,CHI-02,Chicago Distribution Campus,North America,Kitting,Equipment reliability,medium,23.3,21,5,Site Leadership
+INC-0000720,2025-10-02,MAD-02,Madrid Service Center,Europe,Inbound,Process discipline,low,10.2,30,7,Site Leadership
+INC-0000721,2025-10-02,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,critical,33.1,12,6,Operations Excellence
+INC-0000722,2025-10-03,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Carrier exception,critical,20.0,21,10,Operations Excellence
+INC-0000723,2025-10-03,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,low,19.4,9,4,Site Leadership
+INC-0000724,2025-10-03,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,high,21.4,22,8,Operations Excellence
+INC-0000725,2025-10-03,JHB-01,Johannesburg Service Hub,Africa,Returns,Equipment reliability,high,15.9,10,9,Operations Excellence
+INC-0000726,2025-10-04,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,low,27.6,7,4,Site Leadership
+INC-0000727,2025-10-05,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,medium,20.3,18,13,Site Leadership
+INC-0000728,2025-10-05,JHB-01,Johannesburg Service Hub,Africa,Inbound,Inventory variance,critical,35.9,11,9,Operations Excellence
+INC-0000729,2025-10-05,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Carrier exception,low,8.2,24,5,Site Leadership
+INC-0000730,2025-10-06,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,low,11.2,58,2,Site Leadership
+INC-0000731,2025-10-07,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Inventory variance,high,16.5,10,11,Operations Excellence
+INC-0000732,2025-10-08,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Staffing instability,high,22.0,9,6,Operations Excellence
+INC-0000733,2025-10-09,MEX-01,Monterrey Export Gateway,Latin America,Returns,Equipment reliability,low,13.6,10,7,Site Leadership
+INC-0000734,2025-10-09,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Supplier quality,low,9.9,17,3,Site Leadership
+INC-0000735,2025-10-09,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Process discipline,low,9.1,18,2,Site Leadership
+INC-0000736,2025-10-10,CHI-02,Chicago Distribution Campus,North America,Inbound,Process discipline,low,7.2,31,8,Site Leadership
+INC-0000737,2025-10-10,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Carrier exception,low,27.1,15,6,Site Leadership
+INC-0000738,2025-10-10,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Carrier exception,low,6.8,13,5,Site Leadership
+INC-0000739,2025-10-11,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Inventory variance,low,8.6,29,1,Site Leadership
+INC-0000740,2025-10-11,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Supplier quality,medium,16.7,43,9,Site Leadership
+INC-0000741,2025-10-11,MEX-01,Monterrey Export Gateway,Latin America,Returns,Equipment reliability,high,23.3,5,6,Operations Excellence
+INC-0000742,2025-10-11,MAD-02,Madrid Service Center,Europe,Inbound,Supplier quality,low,24.4,13,4,Site Leadership
+INC-0000743,2025-10-11,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Carrier exception,low,19.0,13,5,Site Leadership
+INC-0000744,2025-10-12,MAD-02,Madrid Service Center,Europe,Fulfillment,Supplier quality,low,10.2,14,5,Site Leadership
+INC-0000745,2025-10-13,MAD-02,Madrid Service Center,Europe,Inbound,Process discipline,medium,16.8,19,7,Site Leadership
+INC-0000746,2025-10-13,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Process discipline,low,12.6,18,3,Site Leadership
+INC-0000747,2025-10-14,CHI-02,Chicago Distribution Campus,North America,Returns,Carrier exception,low,17.7,20,4,Site Leadership
+INC-0000748,2025-10-14,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Inventory variance,critical,22.4,22,13,Operations Excellence
+INC-0000749,2025-10-14,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,high,4.6,12,11,Operations Excellence
+INC-0000750,2025-10-15,LHR-03,Milton Keynes Network Center,Europe,Inbound,Carrier exception,medium,6.5,28,4,Site Leadership
+INC-0000751,2025-10-16,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Equipment reliability,low,4.6,18,4,Site Leadership
+INC-0000752,2025-10-16,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,high,10.3,12,6,Operations Excellence
+INC-0000753,2025-10-17,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,medium,12.2,11,8,Site Leadership
+INC-0000754,2025-10-17,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Carrier exception,medium,7.1,35,5,Site Leadership
+INC-0000755,2025-10-17,SYD-01,Sydney Service Campus,Asia Pacific,Returns,Staffing instability,low,21.5,6,5,Site Leadership
+INC-0000756,2025-10-18,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,medium,21.0,9,4,Site Leadership
+INC-0000757,2025-10-18,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Inventory variance,low,11.8,38,2,Site Leadership
+INC-0000758,2025-10-19,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Process discipline,critical,27.4,10,14,Operations Excellence
+INC-0000759,2025-10-19,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Staffing instability,low,23.0,16,3,Site Leadership
+INC-0000760,2025-10-20,ATL-01,Atlanta Fulfillment Center,North America,Returns,Staffing instability,low,5.8,12,6,Site Leadership
+INC-0000761,2025-10-20,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Supplier quality,low,14.5,23,3,Site Leadership
+INC-0000762,2025-10-20,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,low,13.3,8,7,Site Leadership
+INC-0000763,2025-10-20,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,medium,4.7,27,10,Site Leadership
+INC-0000764,2025-10-21,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,low,27.0,8,5,Site Leadership
+INC-0000765,2025-10-21,FRA-01,Frankfurt Regional Hub,Europe,Returns,Inventory variance,low,24.4,16,6,Site Leadership
+INC-0000766,2025-10-22,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,critical,38.6,4,9,Operations Excellence
+INC-0000767,2025-10-22,DXB-01,Dubai Regional Gateway,Middle East,Returns,Supplier quality,critical,16.0,11,12,Operations Excellence
+INC-0000768,2025-10-23,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,low,24.2,16,1,Site Leadership
+INC-0000769,2025-10-23,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Carrier exception,medium,8.3,20,8,Site Leadership
+INC-0000770,2025-10-23,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Process discipline,high,17.9,15,7,Operations Excellence
+INC-0000771,2025-10-24,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,low,8.9,63,7,Site Leadership
+INC-0000772,2025-10-24,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,high,15.0,10,9,Operations Excellence
+INC-0000773,2025-10-24,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Supplier quality,low,16.1,12,3,Site Leadership
+INC-0000774,2025-10-24,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Supplier quality,low,26.4,47,8,Site Leadership
+INC-0000775,2025-10-24,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Carrier exception,critical,36.9,16,10,Operations Excellence
+INC-0000776,2025-10-24,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Supplier quality,low,24.2,32,7,Site Leadership
+INC-0000777,2025-10-25,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,low,21.6,6,5,Site Leadership
+INC-0000778,2025-10-25,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Carrier exception,low,9.4,17,5,Site Leadership
+INC-0000779,2025-10-25,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Equipment reliability,medium,12.2,20,6,Site Leadership
+INC-0000780,2025-10-26,FRA-01,Frankfurt Regional Hub,Europe,Returns,Inventory variance,medium,25.5,7,10,Site Leadership
+INC-0000781,2025-10-26,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Equipment reliability,medium,8.0,11,8,Site Leadership
+INC-0000782,2025-10-27,MEX-01,Monterrey Export Gateway,Latin America,Returns,Process discipline,high,16.6,8,9,Operations Excellence
+INC-0000783,2025-10-28,MAD-02,Madrid Service Center,Europe,Fulfillment,Staffing instability,critical,30.2,36,16,Operations Excellence
+INC-0000784,2025-10-29,ATL-01,Atlanta Fulfillment Center,North America,Inbound,Carrier exception,low,14.5,31,2,Site Leadership
+INC-0000785,2025-10-29,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Carrier exception,low,14.1,30,3,Site Leadership
+INC-0000786,2025-10-29,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,24.1,23,8,Site Leadership
+INC-0000787,2025-10-30,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Inventory variance,low,10.5,49,2,Site Leadership
+INC-0000788,2025-10-30,CHI-02,Chicago Distribution Campus,North America,Kitting,Supplier quality,low,6.6,12,6,Site Leadership
+INC-0000789,2025-10-30,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Inventory variance,low,27.1,21,9,Site Leadership
+INC-0000790,2025-10-30,MEX-01,Monterrey Export Gateway,Latin America,Returns,Equipment reliability,high,13.7,18,6,Operations Excellence
+INC-0000791,2025-10-30,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Carrier exception,low,7.6,8,8,Site Leadership
+INC-0000792,2025-10-31,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Equipment reliability,critical,19.6,29,7,Operations Excellence
+INC-0000793,2025-11-01,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,critical,18.2,15,9,Operations Excellence
+INC-0000794,2025-11-01,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,high,20.0,17,4,Operations Excellence
+INC-0000795,2025-11-01,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Process discipline,medium,8.3,28,11,Site Leadership
+INC-0000796,2025-11-01,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Equipment reliability,medium,8.0,15,10,Site Leadership
+INC-0000797,2025-11-02,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,8.4,7,4,Site Leadership
+INC-0000798,2025-11-03,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,high,27.6,19,13,Operations Excellence
+INC-0000799,2025-11-03,MEX-01,Monterrey Export Gateway,Latin America,Returns,Staffing instability,medium,6.3,7,5,Site Leadership
+INC-0000800,2025-11-03,DXB-01,Dubai Regional Gateway,Middle East,Returns,Supplier quality,low,8.2,12,5,Site Leadership
+INC-0000801,2025-11-03,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,medium,23.4,45,10,Site Leadership
+INC-0000802,2025-11-04,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,medium,10.3,17,7,Site Leadership
+INC-0000803,2025-11-04,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,critical,27.4,12,7,Operations Excellence
+INC-0000804,2025-11-05,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,critical,33.4,26,13,Operations Excellence
+INC-0000805,2025-11-05,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,low,21.0,16,6,Site Leadership
+INC-0000806,2025-11-06,CHI-02,Chicago Distribution Campus,North America,Inbound,Carrier exception,low,11.0,25,6,Site Leadership
+INC-0000807,2025-11-06,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,critical,9.5,15,10,Operations Excellence
+INC-0000808,2025-11-06,LHR-03,Milton Keynes Network Center,Europe,Inbound,Staffing instability,high,19.3,11,11,Operations Excellence
+INC-0000809,2025-11-06,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Inventory variance,medium,18.7,5,10,Site Leadership
+INC-0000810,2025-11-08,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,low,9.8,10,3,Site Leadership
+INC-0000811,2025-11-08,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Staffing instability,low,27.1,19,5,Site Leadership
+INC-0000812,2025-11-08,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Process discipline,medium,20.8,17,4,Site Leadership
+INC-0000813,2025-11-08,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,low,14.4,19,6,Site Leadership
+INC-0000814,2025-11-08,DXB-01,Dubai Regional Gateway,Middle East,Returns,Inventory variance,low,11.0,12,6,Site Leadership
+INC-0000815,2025-11-09,DAL-03,Dallas Omni-Channel Hub,North America,Kitting,Equipment reliability,medium,15.5,7,6,Site Leadership
+INC-0000816,2025-11-09,JHB-01,Johannesburg Service Hub,Africa,Kitting,Inventory variance,critical,6.4,12,5,Operations Excellence
+INC-0000817,2025-11-10,CHI-02,Chicago Distribution Campus,North America,Kitting,Process discipline,medium,15.1,17,5,Site Leadership
+INC-0000818,2025-11-10,CHI-02,Chicago Distribution Campus,North America,Returns,Equipment reliability,critical,17.0,7,15,Operations Excellence
+INC-0000819,2025-11-10,FRA-01,Frankfurt Regional Hub,Europe,Returns,Carrier exception,medium,19.1,22,11,Site Leadership
+INC-0000820,2025-11-11,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Supplier quality,low,26.8,6,7,Site Leadership
+INC-0000821,2025-11-12,MAD-02,Madrid Service Center,Europe,Kitting,Equipment reliability,low,10.0,14,7,Site Leadership
+INC-0000822,2025-11-12,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Equipment reliability,low,25.0,19,3,Site Leadership
+INC-0000823,2025-11-13,ATL-01,Atlanta Fulfillment Center,North America,Kitting,Process discipline,high,16.0,24,4,Operations Excellence
+INC-0000824,2025-11-13,MAD-02,Madrid Service Center,Europe,Returns,Inventory variance,medium,19.1,15,8,Site Leadership
+INC-0000825,2025-11-14,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,low,10.2,16,8,Site Leadership
+INC-0000826,2025-11-15,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Staffing instability,low,23.8,24,6,Site Leadership
+INC-0000827,2025-11-15,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Carrier exception,medium,20.2,12,7,Site Leadership
+INC-0000828,2025-11-15,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Equipment reliability,medium,26.1,25,11,Site Leadership
+INC-0000829,2025-11-16,ATL-01,Atlanta Fulfillment Center,North America,Returns,Equipment reliability,medium,24.9,16,8,Site Leadership
+INC-0000830,2025-11-16,CHI-02,Chicago Distribution Campus,North America,Returns,Carrier exception,medium,9.6,11,5,Site Leadership
+INC-0000831,2025-11-16,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Carrier exception,medium,8.6,39,10,Site Leadership
+INC-0000832,2025-11-16,JHB-01,Johannesburg Service Hub,Africa,Kitting,Carrier exception,low,13.8,3,2,Site Leadership
+INC-0000833,2025-11-16,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Process discipline,medium,7.3,22,14,Site Leadership
+INC-0000834,2025-11-17,FRA-01,Frankfurt Regional Hub,Europe,Fulfillment,Process discipline,low,14.8,49,10,Site Leadership
+INC-0000835,2025-11-17,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Supplier quality,low,16.4,12,3,Site Leadership
+INC-0000836,2025-11-17,DXB-01,Dubai Regional Gateway,Middle East,Returns,Carrier exception,medium,5.3,11,8,Site Leadership
+INC-0000837,2025-11-18,MEX-01,Monterrey Export Gateway,Latin America,Returns,Inventory variance,high,10.6,5,8,Operations Excellence
+INC-0000838,2025-11-19,CHI-02,Chicago Distribution Campus,North America,Inbound,Equipment reliability,medium,11.7,11,6,Site Leadership
+INC-0000839,2025-11-19,LHR-03,Milton Keynes Network Center,Europe,Returns,Process discipline,low,8.7,22,5,Site Leadership
+INC-0000840,2025-11-19,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Staffing instability,critical,32.4,21,10,Operations Excellence
+INC-0000841,2025-11-20,CHI-02,Chicago Distribution Campus,North America,Inbound,Equipment reliability,low,4.9,25,9,Site Leadership
+INC-0000842,2025-11-20,MAD-02,Madrid Service Center,Europe,Kitting,Supplier quality,low,7.5,5,8,Site Leadership
+INC-0000843,2025-11-20,LHR-03,Milton Keynes Network Center,Europe,Inbound,Supplier quality,low,15.4,29,3,Site Leadership
+INC-0000844,2025-11-21,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,high,15.4,11,12,Operations Excellence
+INC-0000845,2025-11-22,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Process discipline,low,24.9,25,3,Site Leadership
+INC-0000846,2025-11-22,ATL-01,Atlanta Fulfillment Center,North America,Returns,Inventory variance,low,6.6,22,3,Site Leadership
+INC-0000847,2025-11-22,LHR-03,Milton Keynes Network Center,Europe,Kitting,Carrier exception,low,10.1,18,3,Site Leadership
+INC-0000848,2025-11-22,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Supplier quality,low,25.1,14,5,Site Leadership
+INC-0000849,2025-11-23,MAD-02,Madrid Service Center,Europe,Fulfillment,Carrier exception,medium,5.9,28,12,Site Leadership
+INC-0000850,2025-11-23,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Supplier quality,low,27.5,10,3,Site Leadership
+INC-0000851,2025-11-24,MAD-02,Madrid Service Center,Europe,Fulfillment,Inventory variance,medium,11.6,14,5,Site Leadership
+INC-0000852,2025-11-25,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Equipment reliability,critical,14.2,21,13,Operations Excellence
+INC-0000853,2025-11-25,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Equipment reliability,critical,28.4,26,7,Operations Excellence
+INC-0000854,2025-11-26,LHR-03,Milton Keynes Network Center,Europe,Returns,Inventory variance,low,6.3,12,9,Site Leadership
+INC-0000855,2025-11-26,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,medium,14.4,11,6,Site Leadership
+INC-0000856,2025-11-26,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Staffing instability,medium,4.7,19,6,Site Leadership
+INC-0000857,2025-11-27,ATL-01,Atlanta Fulfillment Center,North America,Returns,Process discipline,low,4.9,13,4,Site Leadership
+INC-0000858,2025-11-27,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Supplier quality,medium,8.9,30,4,Site Leadership
+INC-0000859,2025-11-27,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,low,4.7,32,2,Site Leadership
+INC-0000860,2025-11-27,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Equipment reliability,medium,12.3,20,5,Site Leadership
+INC-0000861,2025-11-27,JHB-01,Johannesburg Service Hub,Africa,Kitting,Staffing instability,critical,8.4,10,9,Operations Excellence
+INC-0000862,2025-11-28,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Carrier exception,low,5.7,35,3,Site Leadership
+INC-0000863,2025-11-28,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,medium,26.5,16,7,Site Leadership
+INC-0000864,2025-11-28,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Process discipline,low,23.2,12,8,Site Leadership
+INC-0000865,2025-11-29,CHI-02,Chicago Distribution Campus,North America,Inbound,Staffing instability,low,7.6,8,5,Site Leadership
+INC-0000866,2025-11-29,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Equipment reliability,low,19.7,31,5,Site Leadership
+INC-0000867,2025-12-01,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Carrier exception,high,18.3,20,10,Operations Excellence
+INC-0000868,2025-12-02,DAL-03,Dallas Omni-Channel Hub,North America,Fulfillment,Staffing instability,low,9.5,21,10,Site Leadership
+INC-0000869,2025-12-02,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Staffing instability,low,18.5,34,2,Site Leadership
+INC-0000870,2025-12-03,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,high,6.5,9,8,Operations Excellence
+INC-0000871,2025-12-03,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Returns,Staffing instability,low,12.4,22,7,Site Leadership
+INC-0000872,2025-12-04,JHB-01,Johannesburg Service Hub,Africa,Returns,Equipment reliability,medium,6.0,5,4,Site Leadership
+INC-0000873,2025-12-04,SIN-01,Singapore Control Tower,Asia Pacific,Kitting,Process discipline,low,12.4,9,8,Site Leadership
+INC-0000874,2025-12-04,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Supplier quality,low,20.6,5,4,Site Leadership
+INC-0000875,2025-12-05,CHI-02,Chicago Distribution Campus,North America,Returns,Supplier quality,medium,5.8,11,10,Site Leadership
+INC-0000876,2025-12-05,MEX-01,Monterrey Export Gateway,Latin America,Fulfillment,Equipment reliability,medium,26.2,20,6,Site Leadership
+INC-0000877,2025-12-05,MAD-02,Madrid Service Center,Europe,Kitting,Carrier exception,low,24.5,20,5,Site Leadership
+INC-0000878,2025-12-06,MAD-02,Madrid Service Center,Europe,Kitting,Process discipline,low,12.6,6,4,Site Leadership
+INC-0000879,2025-12-06,LHR-03,Milton Keynes Network Center,Europe,Kitting,Inventory variance,low,18.3,12,2,Site Leadership
+INC-0000880,2025-12-06,DXB-01,Dubai Regional Gateway,Middle East,Returns,Supplier quality,low,5.0,9,4,Site Leadership
+INC-0000881,2025-12-07,CHI-02,Chicago Distribution Campus,North America,Inbound,Supplier quality,low,16.5,24,8,Site Leadership
+INC-0000882,2025-12-08,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Equipment reliability,low,9.2,17,6,Site Leadership
+INC-0000883,2025-12-08,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Staffing instability,low,8.4,34,4,Site Leadership
+INC-0000884,2025-12-09,DXB-01,Dubai Regional Gateway,Middle East,Returns,Inventory variance,medium,12.7,13,7,Site Leadership
+INC-0000885,2025-12-10,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Inventory variance,low,8.6,24,5,Site Leadership
+INC-0000886,2025-12-10,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Carrier exception,low,13.0,15,8,Site Leadership
+INC-0000887,2025-12-10,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Carrier exception,high,8.8,33,9,Operations Excellence
+INC-0000888,2025-12-10,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Carrier exception,medium,19.5,17,8,Site Leadership
+INC-0000889,2025-12-10,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Inventory variance,low,12.1,4,2,Site Leadership
+INC-0000890,2025-12-11,ATL-01,Atlanta Fulfillment Center,North America,Fulfillment,Staffing instability,medium,12.8,43,10,Site Leadership
+INC-0000891,2025-12-11,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Inventory variance,high,25.6,9,8,Operations Excellence
+INC-0000892,2025-12-12,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Inventory variance,critical,16.3,19,10,Operations Excellence
+INC-0000893,2025-12-12,DXB-01,Dubai Regional Gateway,Middle East,Returns,Equipment reliability,medium,12.1,17,6,Site Leadership
+INC-0000894,2025-12-13,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Staffing instability,low,7.8,34,2,Site Leadership
+INC-0000895,2025-12-13,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Process discipline,low,18.7,12,6,Site Leadership
+INC-0000896,2025-12-13,DXB-01,Dubai Regional Gateway,Middle East,Inbound,Process discipline,low,27.6,10,9,Site Leadership
+INC-0000897,2025-12-13,SIN-01,Singapore Control Tower,Asia Pacific,Returns,Process discipline,low,20.0,8,8,Site Leadership
+INC-0000898,2025-12-14,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Inventory variance,medium,8.5,12,7,Site Leadership
+INC-0000899,2025-12-14,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Carrier exception,medium,13.2,11,8,Site Leadership
+INC-0000900,2025-12-15,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Inventory variance,medium,24.2,21,6,Site Leadership
+INC-0000901,2025-12-15,MEX-01,Monterrey Export Gateway,Latin America,Returns,Carrier exception,high,26.7,15,13,Operations Excellence
+INC-0000902,2025-12-16,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Staffing instability,medium,26.4,13,9,Site Leadership
+INC-0000903,2025-12-16,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Carrier exception,medium,8.3,35,9,Site Leadership
+INC-0000904,2025-12-16,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,26.5,29,2,Site Leadership
+INC-0000905,2025-12-16,MAD-02,Madrid Service Center,Europe,Kitting,Staffing instability,high,25.4,6,11,Operations Excellence
+INC-0000906,2025-12-16,SYD-01,Sydney Service Campus,Asia Pacific,Kitting,Staffing instability,medium,9.3,8,6,Site Leadership
+INC-0000907,2025-12-17,DAL-03,Dallas Omni-Channel Hub,North America,Returns,Inventory variance,low,5.4,13,10,Site Leadership
+INC-0000908,2025-12-17,DXB-01,Dubai Regional Gateway,Middle East,Returns,Staffing instability,low,6.1,5,8,Site Leadership
+INC-0000909,2025-12-17,JHB-01,Johannesburg Service Hub,Africa,Inbound,Process discipline,critical,8.3,17,16,Operations Excellence
+INC-0000910,2025-12-17,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Carrier exception,low,26.8,18,5,Site Leadership
+INC-0000911,2025-12-18,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Supplier quality,high,19.7,34,5,Operations Excellence
+INC-0000912,2025-12-18,JHB-01,Johannesburg Service Hub,Africa,Returns,Process discipline,high,23.3,10,6,Operations Excellence
+INC-0000913,2025-12-19,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Carrier exception,low,26.6,12,5,Site Leadership
+INC-0000914,2025-12-19,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Inbound,Inventory variance,low,13.9,13,11,Site Leadership
+INC-0000915,2025-12-19,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Carrier exception,low,24.9,37,6,Site Leadership
+INC-0000916,2025-12-19,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Supplier quality,critical,12.6,19,13,Operations Excellence
+INC-0000917,2025-12-20,MEX-01,Monterrey Export Gateway,Latin America,Returns,Equipment reliability,low,11.4,20,6,Site Leadership
+INC-0000918,2025-12-20,MAD-02,Madrid Service Center,Europe,Kitting,Supplier quality,medium,25.5,4,7,Site Leadership
+INC-0000919,2025-12-20,LHR-03,Milton Keynes Network Center,Europe,Returns,Supplier quality,low,12.6,19,3,Site Leadership
+INC-0000920,2025-12-21,FRA-01,Frankfurt Regional Hub,Europe,Kitting,Carrier exception,low,14.7,11,3,Site Leadership
+INC-0000921,2025-12-21,LHR-03,Milton Keynes Network Center,Europe,Kitting,Process discipline,low,10.6,7,7,Site Leadership
+INC-0000922,2025-12-22,FRA-01,Frankfurt Regional Hub,Europe,Returns,Staffing instability,medium,12.5,6,7,Site Leadership
+INC-0000923,2025-12-22,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Process discipline,critical,36.9,32,13,Operations Excellence
+INC-0000924,2025-12-22,DXB-01,Dubai Regional Gateway,Middle East,Fulfillment,Carrier exception,critical,25.0,28,14,Operations Excellence
+INC-0000925,2025-12-22,JHB-01,Johannesburg Service Hub,Africa,Kitting,Equipment reliability,low,14.1,12,3,Site Leadership
+INC-0000926,2025-12-23,MEX-01,Monterrey Export Gateway,Latin America,Kitting,Supplier quality,low,18.6,7,6,Site Leadership
+INC-0000927,2025-12-23,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Supplier quality,low,14.5,45,6,Site Leadership
+INC-0000928,2025-12-24,CHI-02,Chicago Distribution Campus,North America,Kitting,Staffing instability,medium,8.6,9,8,Site Leadership
+INC-0000929,2025-12-24,MAD-02,Madrid Service Center,Europe,Kitting,Process discipline,low,7.7,9,5,Site Leadership
+INC-0000930,2025-12-24,MAD-02,Madrid Service Center,Europe,Inbound,Supplier quality,medium,5.7,20,4,Site Leadership
+INC-0000931,2025-12-25,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Process discipline,low,13.1,6,4,Site Leadership
+INC-0000932,2025-12-26,FRA-01,Frankfurt Regional Hub,Europe,Inbound,Staffing instability,low,9.7,19,3,Site Leadership
+INC-0000933,2025-12-26,LHR-03,Milton Keynes Network Center,Europe,Inbound,Equipment reliability,low,25.6,30,4,Site Leadership
+INC-0000934,2025-12-26,LHR-03,Milton Keynes Network Center,Europe,Returns,Process discipline,low,26.7,7,4,Site Leadership
+INC-0000935,2025-12-27,CHI-02,Chicago Distribution Campus,North America,Kitting,Equipment reliability,medium,26.4,8,8,Site Leadership
+INC-0000936,2025-12-27,DAL-03,Dallas Omni-Channel Hub,North America,Inbound,Staffing instability,medium,24.6,11,5,Site Leadership
+INC-0000937,2025-12-27,LHR-03,Milton Keynes Network Center,Europe,Fulfillment,Process discipline,low,5.3,41,5,Site Leadership
+INC-0000938,2025-12-27,JHB-01,Johannesburg Service Hub,Africa,Returns,Inventory variance,critical,32.4,11,10,Operations Excellence
+INC-0000939,2025-12-27,JHB-01,Johannesburg Service Hub,Africa,Returns,Equipment reliability,medium,19.8,4,6,Site Leadership
+INC-0000940,2025-12-27,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Fulfillment,Process discipline,low,7.0,31,4,Site Leadership
+INC-0000941,2025-12-27,BLR-01,Bengaluru Fulfillment Center,Asia Pacific,Kitting,Equipment reliability,low,6.5,13,9,Site Leadership
+INC-0000942,2025-12-28,JHB-01,Johannesburg Service Hub,Africa,Fulfillment,Carrier exception,low,13.8,21,5,Site Leadership
+INC-0000943,2025-12-28,SYD-01,Sydney Service Campus,Asia Pacific,Inbound,Carrier exception,low,27.4,16,3,Site Leadership
+INC-0000944,2025-12-28,SYD-01,Sydney Service Campus,Asia Pacific,Fulfillment,Equipment reliability,high,9.0,22,6,Operations Excellence
+INC-0000945,2025-12-29,MAD-02,Madrid Service Center,Europe,Fulfillment,Equipment reliability,critical,18.8,16,7,Operations Excellence
+INC-0000946,2025-12-29,LHR-03,Milton Keynes Network Center,Europe,Kitting,Staffing instability,low,23.3,24,4,Site Leadership
+INC-0000947,2025-12-29,LHR-03,Milton Keynes Network Center,Europe,Kitting,Process discipline,low,9.8,10,2,Site Leadership
+INC-0000948,2025-12-29,SIN-01,Singapore Control Tower,Asia Pacific,Fulfillment,Inventory variance,medium,22.7,19,5,Site Leadership
+INC-0000949,2025-12-31,MEX-01,Monterrey Export Gateway,Latin America,Inbound,Equipment reliability,high,26.7,10,5,Operations Excellence
+INC-0000950,2025-12-31,LHR-03,Milton Keynes Network Center,Europe,Returns,Equipment reliability,critical,6.2,25,8,Operations Excellence
+INC-0000951,2025-12-31,DXB-01,Dubai Regional Gateway,Middle East,Kitting,Carrier exception,critical,10.3,9,10,Operations Excellence

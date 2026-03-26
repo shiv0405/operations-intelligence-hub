@@ -1,0 +1,13 @@
+site_code,site_name,region,country,automation_tier,network_role,daily_capacity,productivity_index,quality_target,reliability_target,service_target
+ATL-01,Atlanta Fulfillment Center,North America,United States,High,Retail and eCommerce,1280,37.0,0.988,0.955,0.972
+CHI-02,Chicago Distribution Campus,North America,United States,Medium,B2B and Retail,1160,35.5,0.985,0.949,0.968
+DAL-03,Dallas Omni-Channel Hub,North America,United States,High,Omni-Channel,1320,38.4,0.989,0.957,0.974
+MEX-01,Monterrey Export Gateway,Latin America,Mexico,Medium,Cross-Border,980,32.2,0.981,0.941,0.955
+FRA-01,Frankfurt Regional Hub,Europe,Germany,High,Continental Distribution,1180,36.6,0.987,0.953,0.971
+MAD-02,Madrid Service Center,Europe,Spain,Medium,Southern Europe,940,31.9,0.983,0.944,0.962
+LHR-03,Milton Keynes Network Center,Europe,United Kingdom,High,Returns and Reverse Logistics,1100,34.8,0.984,0.947,0.965
+DXB-01,Dubai Regional Gateway,Middle East,United Arab Emirates,Medium,Cross-Region Routing,890,30.6,0.982,0.942,0.958
+JHB-01,Johannesburg Service Hub,Africa,South Africa,Low,Emerging Market Coverage,760,27.8,0.976,0.931,0.948
+BLR-01,Bengaluru Fulfillment Center,Asia Pacific,India,Medium,Consumer Electronics,1140,34.2,0.985,0.948,0.966
+SIN-01,Singapore Control Tower,Asia Pacific,Singapore,High,Express and Critical Parts,860,33.8,0.99,0.962,0.981
+SYD-01,Sydney Service Campus,Asia Pacific,Australia,Medium,Aftermarket and Service,820,29.7,0.982,0.943,0.959

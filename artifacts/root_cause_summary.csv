@@ -1,0 +1,15 @@
+driver,delayed_orders,value_at_risk_usd,incident_count,impacted_orders,weighted_impact
+Weather disruption,1836.0,4735614.33,0.0,0.0,4779.4245732
+Demand spike,1834.0,4683935.42,0.0,0.0,4772.3574168
+Documentation hold,1808.0,4615299.77,0.0,0.0,4704.6119908
+Supplier delay,1770.0,4617114.23,0.0,0.0,4609.6845692
+Slotting constraint,1754.0,4599790.81,0.0,0.0,4568.9916324
+Labor coverage gap,1741.0,4416075.42,0.0,0.0,4529.1430168
+Carrier capacity,1725.0,4359396.02,0.0,0.0,4486.8758408
+Inventory mismatch,1719.0,4415287.93,0.0,0.0,4474.1115172
+Process discipline,0.0,0.0,173.0,1109.0,519.0
+Carrier exception,0.0,0.0,163.0,1062.0,489.0
+Supplier quality,0.0,0.0,161.0,1019.0,483.0
+Staffing instability,0.0,0.0,156.0,983.0,468.0
+Inventory variance,0.0,0.0,153.0,999.0,459.0
+Equipment reliability,0.0,0.0,145.0,907.0,435.0

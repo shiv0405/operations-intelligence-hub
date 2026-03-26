@@ -1,0 +1,14 @@
+{
+  "sites_in_scope": 12,
+  "network_score": 87.1,
+  "leading_sites": 7,
+  "critical_sites": 0,
+  "throughput_attainment_pct": 95.3,
+  "availability_pct": 92.5,
+  "first_pass_yield_pct": 98.2,
+  "on_time_service_pct": 93.2,
+  "perfect_order_pct": 81.9,
+  "revenue_at_risk_usd": 36442513.93,
+  "expedite_share_pct": 11.3,
+  "top_priority_site": "Bengaluru Fulfillment Center"
+}
