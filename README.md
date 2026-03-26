@@ -70,7 +70,3 @@ The `powerbi/` folder is designed as a serious build kit rather than a placehold
 - Expose KPI services through a lightweight API for near-real-time operational review
 - Add anomaly detection and forecast layers for proactive staffing and capacity planning
 - Convert the static preview into a deployed BI or internal portal experience
-
-## Automation Disclosure
-
-**Note:** This repository uses automation and AI assistance for planning, initial scaffolding, routine maintenance, and selected code or documentation generation. I review and curate the outputs as part of my portfolio workflow.
