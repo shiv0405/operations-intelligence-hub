@@ -14,7 +14,7 @@ Operations analytics project focused on KPI design, reporting engineering, and P
 - `src/operations_intelligence_hub/` contains the package code and CLI
 - `data/raw/` contains generated site, operations, order, and incident datasets
 - `data/processed/` contains curated scorecards and alert outputs
-- `artifacts/` contains KPI snapshots, root-cause summaries, and executive-ready HTML
+- `artifacts/` contains KPI snapshots, root-cause summaries, and HTML summary outputs
 - `powerbi/` contains DAX, semantic model metadata, a theme, and dashboard build guidance
 - `docs/` contains the architecture and KPI design notes
 

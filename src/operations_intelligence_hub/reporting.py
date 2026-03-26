@@ -447,7 +447,7 @@ def build_executive_html(snapshot: dict[str, object], scorecard: pd.DataFrame, a
 <body>
   <div class="wrap">
     <h1>Operations Intelligence Hub</h1>
-    <p class="subtitle">Executive-ready view of network throughput, service health, operational stability, and recovery priorities across a multi-region fulfillment portfolio. This summary is generated from reproducible synthetic telemetry and aligned to the Power BI build assets included in the repository.</p>
+    <p class="subtitle">Integrated view of network throughput, service health, operational stability, and recovery priorities across a multi-region fulfillment portfolio. This summary is generated from reproducible synthetic telemetry and aligned to the Power BI build assets included in the repository.</p>
     <div class="cards">
       {"".join(card_markup)}
     </div>
