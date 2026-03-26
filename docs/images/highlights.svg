@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-label="Sites Requiring Attention">
+  <rect width="1280" height="760" fill="#fff9f1"/>
+  <rect x="40" y="36" width="1200" height="120" rx="28" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <text x="74" y="92" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Sites Requiring Attention</text>
+  <text x="74" y="128" fill="#6b7280" font-size="19" font-family="Segoe UI, Arial, sans-serif">Lowest composite operational scores from the latest site scorecard</text>
+  
+  <text x="120" y="214" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Johannesburg Service Hub</text>
+  <rect x="440" y="192" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="192" width="472.4" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="214" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">76.2</text>
+
+  <text x="120" y="286" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Monterrey Export Gateway</text>
+  <rect x="440" y="264" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="264" width="501.6" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="286" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">80.9</text>
+
+  <text x="120" y="358" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Dubai Regional Gateway</text>
+  <rect x="440" y="336" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="336" width="511.5" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="358" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.5</text>
+
+  <text x="120" y="430" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Sydney Service Campus</text>
+  <rect x="440" y="408" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="408" width="514.0" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="430" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.9</text>
+
+  <text x="120" y="502" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Madrid Service Center</text>
+  <rect x="440" y="480" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="480" width="529.5" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="502" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">85.4</text>
+
+  <text x="120" y="574" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Bengaluru Fulfillment Center</text>
+  <rect x="440" y="552" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
+  <rect x="440" y="552" width="542.5" height="28" rx="14" fill="#f59e0b"/>
+  <text x="1078" y="574" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.5</text>
+
+  <rect x="74" y="646" width="1132" height="72" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="1.5"/>
+  <text x="100" y="692" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Lower scores indicate greater pressure across throughput, service, quality, and backlog conditions.</text>
+</svg>

@@ -9,6 +9,12 @@ Operations analytics project focused on KPI design, reporting engineering, and P
 - Produces site scorecards, risk alerts, KPI snapshots, and executive HTML briefings
 - Ships with Power BI semantic guidance, DAX measures, theming, and report blueprints
 
+## Visual Outputs
+
+![Operations intelligence overview](docs/images/overview.svg)
+
+![Operations intelligence highlights](docs/images/highlights.svg)
+
 ## Project Layout
 
 - `src/operations_intelligence_hub/` contains the package code and CLI
