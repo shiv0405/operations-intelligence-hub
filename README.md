@@ -1,13 +1,13 @@
 # Operations Intelligence Hub
 
-Executive-grade operations analytics portfolio project built to showcase KPI design, reporting engineering, and Power BI delivery. It models a multi-region fulfillment network, generates large synthetic datasets, produces site scorecards and executive summaries, and packages the semantic assets needed to build a polished Power BI command center.
+Operations analytics project focused on KPI design, reporting engineering, and Power BI delivery. It models a multi-region fulfillment network, generates large synthetic datasets, produces site scorecards and executive summaries, and packages the semantic assets needed to build a polished Power BI command center.
 
-## Why This Project Works For Senior Roles
+## Overview
 
-- Frames the problem like a real operations leadership initiative instead of a toy dashboard exercise
-- Includes realistic telemetry for throughput, service levels, labor efficiency, backlog pressure, and quality risk
-- Produces stakeholder-ready outputs such as site scorecards, risk alerts, KPI snapshots, and executive HTML briefings
-- Ships with Power BI semantic guidance, DAX measures, theming, and report blueprints for a high-end presentation layer
+- Frames the problem as an operations planning and reporting workflow rather than a dashboard-only exercise
+- Includes telemetry for throughput, service levels, labor efficiency, backlog pressure, and quality risk
+- Produces site scorecards, risk alerts, KPI snapshots, and executive HTML briefings
+- Ships with Power BI semantic guidance, DAX measures, theming, and report blueprints
 
 ## Project Layout
 
@@ -60,7 +60,7 @@ The `powerbi/` folder is designed as a serious build kit rather than a placehold
 
 - `semantic_model.json` documents tables, relationships, and refresh guidance
 - `measures.dax` provides reusable KPI calculations
-- `theme.json` defines a recruiter-friendly visual system
+- `theme.json` defines a cohesive visual system
 - `dashboard_blueprint.md` maps the report pages and narrative flow
 - `dashboard_preview.html` gives a polished static preview of the intended reporting experience
 
