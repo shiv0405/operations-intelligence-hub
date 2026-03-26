@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-label="Operations Intelligence Hub">
   <rect width="1280" height="760" fill="#fff9f1"/>
-  <rect x="40" y="36" width="1200" height="150" rx="28" fill="#b45309"/>
-  <circle cx="1140" cy="92" r="54" fill="#f59e0b" opacity="0.18"/>
-  <circle cx="1188" cy="146" r="34" fill="#0f766e" opacity="0.18"/>
-  <text x="72" y="92" fill="#ffffff" font-size="36" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Operations Intelligence Hub</text>
-  <text x="72" y="132" fill="#e5f2ff" font-size="19" font-family="Segoe UI, Arial, sans-serif">Operational KPI tracking, site scorecards, and leadership reporting outputs.</text>
+  <rect x="40" y="36" width="1200" height="106" rx="28" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <rect x="58" y="54" width="10" height="70" rx="5" fill="#b45309"/>
+  <text x="90" y="88" fill="#1f2937" font-size="32" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Operations Intelligence Hub</text>
+  <text x="90" y="120" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Operational KPI tracking, site scorecards, and leadership reporting outputs.</text>
   
-  <rect x="56" y="214" width="260" height="126" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
-  <text x="84" y="256" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Network score</text>
-  <text x="84" y="296" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.1</text>
-  <text x="84" y="322" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Composite operations score</text>
+  <rect x="56" y="168" width="256" height="122" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <text x="84" y="210" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Network score</text>
+  <text x="84" y="250" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.1</text>
+  <text x="84" y="276" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Composite operations score</text>
 
-  <rect x="344" y="214" width="260" height="126" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
-  <text x="372" y="256" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Throughput</text>
-  <text x="372" y="296" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">95.3%</text>
-  <text x="372" y="322" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Against plan</text>
+  <rect x="360" y="168" width="256" height="122" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <text x="388" y="210" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Throughput</text>
+  <text x="388" y="250" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">95.3%</text>
+  <text x="388" y="276" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Against plan</text>
 
-  <rect x="632" y="214" width="260" height="126" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
-  <text x="660" y="256" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">On-time service</text>
-  <text x="660" y="296" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">93.2%</text>
-  <text x="660" y="322" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Current network service</text>
+  <rect x="664" y="168" width="256" height="122" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <text x="692" y="210" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">On-time service</text>
+  <text x="692" y="250" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">93.2%</text>
+  <text x="692" y="276" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Current network service</text>
 
-  <rect x="920" y="214" width="260" height="126" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
-  <text x="948" y="256" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Revenue at risk</text>
-  <text x="948" y="296" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">$36.4M</text>
-  <text x="948" y="322" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Modeled service exposure</text>
+  <rect x="968" y="168" width="256" height="122" rx="24" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <text x="996" y="210" fill="#6b7280" font-size="18" font-family="Segoe UI, Arial, sans-serif">Revenue at risk</text>
+  <text x="996" y="250" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">$36.4M</text>
+  <text x="996" y="276" fill="#b45309" font-size="15" font-family="Segoe UI, Arial, sans-serif">Modeled service exposure</text>
 
-  <rect x="56" y="384" width="1168" height="316" rx="28" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
-  <text x="84" y="438" fill="#1f2937" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Current outcome</text>
-  <text x="84" y="482" fill="#6b7280" font-size="20" font-family="Segoe UI, Arial, sans-serif">Bengaluru Fulfillment Center is the current top-priority site with score 87.5, backlog pressure</text><text x="84" y="512" fill="#6b7280" font-size="20" font-family="Segoe UI, Arial, sans-serif">1.8% and 25 critical incidents.</text>
+  <rect x="56" y="346" width="1168" height="334" rx="28" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
+  <rect x="56" y="346" width="20" height="334" rx="10" fill="#f59e0b"/>
+  <text x="100" y="404" fill="#1f2937" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Network status</text>
+  <text x="100" y="450" text-anchor="start" fill="#6b7280" font-size="20" font-family="Segoe UI, Arial, sans-serif">Bengaluru Fulfillment Center is the current top-priority site with score 87.5, backlog pressure</text><text x="100" y="480" text-anchor="start" fill="#6b7280" font-size="20" font-family="Segoe UI, Arial, sans-serif">1.8% and 25 critical incidents.</text>
 </svg>

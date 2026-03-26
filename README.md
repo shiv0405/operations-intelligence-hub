@@ -2,20 +2,20 @@
 
 Operations analytics project focused on KPI design, reporting engineering, and Power BI delivery. It models a multi-region fulfillment network, generates large synthetic datasets, produces site scorecards and executive summaries, and packages the semantic assets needed to build a polished Power BI command center.
 
-## Overview
+## Reporting Scope
 
 - Frames the problem as an operations planning and reporting workflow rather than a dashboard-only exercise
 - Includes telemetry for throughput, service levels, labor efficiency, backlog pressure, and quality risk
 - Produces site scorecards, risk alerts, KPI snapshots, and executive HTML briefings
 - Ships with Power BI semantic guidance, DAX measures, theming, and report blueprints
 
-## Visual Outputs
+## Reporting Preview
 
 ![Operations intelligence overview](docs/images/overview.svg)
 
 ![Operations intelligence highlights](docs/images/highlights.svg)
 
-## Project Layout
+## Workspace Layout
 
 - `src/operations_intelligence_hub/` contains the package code and CLI
 - `data/raw/` contains generated site, operations, order, and incident datasets
@@ -33,7 +33,7 @@ python -m pip install -e .
 python -m operations_intelligence_hub.cli run-all --days 365 --sites 12 --orders-per-site-day 28
 ```
 
-## What Gets Generated
+## Reporting Outputs
 
 The default run creates a full reporting pack:
 
@@ -53,14 +53,14 @@ The default run creates a full reporting pack:
 - `powerbi/theme.json`
 - `powerbi/dashboard_preview.html`
 
-## Business Questions It Answers
+## Planning Questions
 
 - Which sites are falling behind plan even when labor spend increases?
 - Where is service-level risk concentrated by region, shift pattern, or workstream?
 - Which root causes create the most value leakage across delayed orders and operational incidents?
 - Which sites should leadership prioritize for process stabilization, automation, or staffing interventions?
 
-## Power BI Delivery
+## Semantic and BI Assets
 
 The `powerbi/` folder is designed as a serious build kit rather than a placeholder:
 
@@ -70,7 +70,7 @@ The `powerbi/` folder is designed as a serious build kit rather than a placehold
 - `dashboard_blueprint.md` maps the report pages and narrative flow
 - `dashboard_preview.html` gives a polished static preview of the intended reporting experience
 
-## Recommended Extensions
+## Next Extensions
 
 - Publish curated extracts to a warehouse and wire refresh orchestration through GitHub Actions or Airflow
 - Expose KPI services through a lightweight API for near-real-time operational review

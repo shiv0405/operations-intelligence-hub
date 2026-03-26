@@ -3,35 +3,30 @@
   <rect x="40" y="36" width="1200" height="120" rx="28" fill="#ffffff" stroke="#f4e4c4" stroke-width="2"/>
   <text x="74" y="92" fill="#1f2937" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Sites Requiring Attention</text>
   <text x="74" y="128" fill="#6b7280" font-size="19" font-family="Segoe UI, Arial, sans-serif">Lowest composite operational scores from the latest site scorecard</text>
+  <line x1="86" y1="550" x2="1130" y2="550" stroke="#f4e4c4" stroke-width="2"/>
   
-  <text x="120" y="214" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Johannesburg Service Hub</text>
-  <rect x="440" y="192" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="192" width="472.4" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="214" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">76.2</text>
+  <rect x="110" y="275.7" width="96" height="274.3" rx="18" fill="#f59e0b"/>
+  <text x="158.0" y="261.7" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">76.2</text>
+  <text x="158.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Johannesburg</text><text x="158.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Service Hub</text>
 
-  <text x="120" y="286" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Monterrey Export Gateway</text>
-  <rect x="440" y="264" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="264" width="501.6" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="286" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">80.9</text>
+  <rect x="274" y="258.8" width="96" height="291.2" rx="18" fill="#f59e0b"/>
+  <text x="322.0" y="244.8" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">80.9</text>
+  <text x="322.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Monterrey</text><text x="322.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Export</text><text x="322.0" y="634" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Gateway</text>
 
-  <text x="120" y="358" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Dubai Regional Gateway</text>
-  <rect x="440" y="336" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="336" width="511.5" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="358" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.5</text>
+  <rect x="438" y="253.0" width="96" height="297.0" rx="18" fill="#f59e0b"/>
+  <text x="486.0" y="239.0" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.5</text>
+  <text x="486.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Dubai</text><text x="486.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Regional</text><text x="486.0" y="634" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Gateway</text>
 
-  <text x="120" y="430" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Sydney Service Campus</text>
-  <rect x="440" y="408" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="408" width="514.0" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="430" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.9</text>
+  <rect x="602" y="251.6" width="96" height="298.4" rx="18" fill="#f59e0b"/>
+  <text x="650.0" y="237.6" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">82.9</text>
+  <text x="650.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Sydney</text><text x="650.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Service</text><text x="650.0" y="634" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Campus</text>
 
-  <text x="120" y="502" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Madrid Service Center</text>
-  <rect x="440" y="480" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="480" width="529.5" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="502" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">85.4</text>
+  <rect x="766" y="242.6" width="96" height="307.4" rx="18" fill="#f59e0b"/>
+  <text x="814.0" y="228.6" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">85.4</text>
+  <text x="814.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Madrid</text><text x="814.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Service</text><text x="814.0" y="634" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Center</text>
 
-  <text x="120" y="574" fill="#1f2937" font-size="18" font-family="Segoe UI, Arial, sans-serif">Bengaluru Fulfillment Center</text>
-  <rect x="440" y="552" width="620" height="28" rx="14" fill="#fff9f1" stroke="#f4e4c4" stroke-width="1"/>
-  <rect x="440" y="552" width="542.5" height="28" rx="14" fill="#f59e0b"/>
-  <text x="1078" y="574" fill="#b45309" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.5</text>
+  <rect x="930" y="235.0" width="96" height="315.0" rx="18" fill="#f59e0b"/>
+  <text x="978.0" y="221.0" text-anchor="middle" fill="#b45309" font-size="17" font-family="Segoe UI, Arial, sans-serif" font-weight="700">87.5</text>
+  <text x="978.0" y="590" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Bengaluru</text><text x="978.0" y="612" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Fulfillment</text><text x="978.0" y="634" text-anchor="middle" fill="#1f2937" font-size="16" font-family="Segoe UI, Arial, sans-serif">Center</text>
 
 </svg>
